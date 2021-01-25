@@ -1,0 +1,6 @@
+confFile = new_init-min.xyz 
+confFileUnits = angstroms
+ncType = QD 
+remDanglingAtoms = 1
+nLayersToCut = 1
+passivate = 1

@@ -1,0 +1,33 @@
+Mon Nov  5 18:37:19 2018
+
+******************************************************************************
+
+Number of atoms in the system, natom = 4841
+Number of grid points used: nx = 176  ny = 176  nz = 80
+Number of states per filter, ms = 20
+Number of filter cycles, ns = 128
+Length of Newton interpolation used, nc = 4096
+Target energy for HOMO state = -0.2250
+Target energy for LUMO state = -0.1350
+Kinetic energy maximum =  10.00
+Number of openMP threads used = 64
+No expot.par file detected in cwd - setting external potential to 0!
+Box (quadrant) dimensions: xd = 63.00 yd = 63.00 zd = 29.00
+Grid point spacing: dx = 0.7159 dy = 0.7159 dz = 0.7250 dv = 0.371581 dr = 1.245262
+Potential energy statistics: dV = 2.29389 Vmin = -1.82962 Vmax = 0.46427
+dT = 28.6452
+nn = 1600
+homo = 6399 lumo = 6400
+dE = 13.364
+done calculate energy range, CPU time (sec) 1478.78, wall run time (sec) 51
+nc = 4096 dt = 15030.2 dE = 13.364
+seed = -1892430639
+done calculating filter, CPU time (sec) 637928, wall run time (sec) 10057
+cutoff is 1488
+mstot ortho = 1488
+done calculating ortho, CPU time (sec) 5797.39, wall run time (sec) 5752
+done calculating Hmat, CPU time (sec) 24289.8, wall run time (sec) 24245
+
+******************************************************************************
+
+Tue Nov  6 05:57:53 2018

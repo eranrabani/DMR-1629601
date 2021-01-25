@@ -1,0 +1,51 @@
+Thu Oct  4 14:49:25 2018
+
+******************************************************************************
+
+System Information
+
+Total Number of Atoms = 5813
+Number of atom types = 5
+Atom type 0 has symbol S
+Atom type 1 has symbol Cd
+Atom type 2 has symbol Se
+Atom type 3 has symbol P2
+Atom type 4 has symbol P1
+
+******************************************************************************
+
+Nanocrystal Size Statistics [Angstroms]
+
+The volume of the NPL = 98.466 nm^3
+The area of the NPL = 33.849 nm^2
+The length of the NPL = 5.818 nm
+The width of the NPL = 5.818 nm
+The thickness of the NPL = 2.909 nm
+
+The approximate number of grid points (grid density 0.8):
+   153.709    153.709     84.994 2008107.587
+
+All atom types - including passivation
+    59.780     59.780     30.690     82.439
+
+All atom types - excluding passivation
+    58.180     58.180     29.090     80.445
+
+Atom type = 0, atom symbol = S, number of atoms = 1196
+    55.271     55.271     26.181     80.090
+
+Atom type = 1, atom symbol = Cd, number of atoms = 2325
+    58.180     58.180     29.090     80.195
+
+Atom type = 2, atom symbol = Se, number of atoms = 800
+    55.271     55.271      8.727     78.381
+
+Atom type = 3, atom symbol = P2, number of atoms = 88
+    56.143     56.143     27.054     81.295
+
+Atom type = 4, atom symbol = P1, number of atoms = 1404
+    59.780     59.780     30.690     82.402
+
+
+******************************************************************************
+

@@ -1,0 +1,15 @@
+buildNewNC = 1
+ncType = NPL
+ncSize = 75.0 75.0 51.5
+ncAtomSymbols = Cd S
+ncCenter = 0.0 0.0 0.0
+ncCrystalStructure = zincblende 
+
+nCores = 1
+ncType = NPL
+ncSize = 90.0 90.0 12.5
+ncAtomSymbols = Cd Se
+ncCenter = 0.0 0.0 0.0
+ncCrystalStructure = zincblende
+
+centerAtomSymbol = Cd

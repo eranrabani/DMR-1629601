@@ -1,0 +1,50 @@
+Mon Sep 24 10:47:36 2018
+
+******************************************************************************
+
+System Information
+
+Total Number of Atoms = 2961
+Number of atom types = 6
+Atom type 0 has symbol S
+Atom type 1 has symbol Cd
+Atom type 2 has symbol Se
+Atom type 3 has symbol P2
+Atom type 4 has symbol P1
+
+******************************************************************************
+
+Nanocrystal Size Statistics [Angstroms]
+
+The volume of the QD = 63.653 nm^3
+The area of the QD = 19.274 nm^2
+The radius of the QD = 2.477 nm
+The diameter of the QD = 4.954 nm
+
+The approximate number of grid points (grid density 0.8):
+   119.352    119.352    119.352 1700136.593
+
+All atom types - including passivation
+    45.235     45.235     45.235     51.793
+
+All atom types - excluding passivation
+    43.635     43.635     43.635     49.538
+
+Atom type = 0, atom symbol = S, number of atoms = 696
+    40.726     40.726     40.726     49.367
+
+Atom type = 1, atom symbol = Cd, number of atoms = 1132
+    43.635     43.635     43.635     49.538
+
+Atom type = 2, atom symbol = Se, number of atoms = 429
+    29.090     29.090     29.090     33.924
+
+Atom type = 3, atom symbol = P2, number of atoms = 338
+    42.180     42.180     42.180     51.424
+
+Atom type = 4, atom symbol = P1, number of atoms = 366
+    45.235     45.235     45.235     51.793
+
+
+******************************************************************************
+

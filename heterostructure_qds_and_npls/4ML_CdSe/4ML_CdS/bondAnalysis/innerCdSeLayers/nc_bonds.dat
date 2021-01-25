@@ -1,0 +1,3176 @@
+Wed Feb 20 13:38:06 2019
+
+******************************************************************************
+
+System Information
+
+Total Number of Atoms = 693
+Number of atom types = 4
+Atom type 0 has symbol Se
+Atom type 1 has symbol Cd
+Atom type 2 has symbol P2
+Atom type 3 has symbol P1
+
+******************************************************************************
+
+Nanocrystal Bond Statistics [Angstroms]
+
+
+******************************************************************************
+
+Se atom 0 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5991
+Bond 1 with neighbor P2 has length = 0.7822
+
+Se atom 1 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6053
+Bond 1 with neighbor Cd has length = 2.6038
+
+Cd atom 2 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6053
+Bond 1 with neighbor Se has length = 2.6025
+Bond 2 with neighbor P1 has length = 1.4299
+Bond 3 with neighbor P1 has length = 1.4319
+
+Se atom 3 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6025
+Bond 1 with neighbor Cd has length = 2.5964
+
+Se atom 4 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6038
+Bond 1 with neighbor Cd has length = 2.6053
+
+Cd atom 5 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5991
+Bond 1 with neighbor Se has length = 2.6038
+Bond 2 with neighbor Se has length = 2.6038
+Bond 3 with neighbor Se has length = 2.6015
+
+Se atom 6 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5954
+
+Cd atom 7 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6053
+Bond 1 with neighbor Se has length = 2.6025
+Bond 2 with neighbor P1 has length = 1.4299
+Bond 3 with neighbor P1 has length = 1.4319
+
+Se atom 8 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6025
+Bond 1 with neighbor Cd has length = 2.5964
+
+Se atom 9 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6031
+Bond 1 with neighbor Cd has length = 2.5994
+
+Cd atom 10 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6031
+Bond 1 with neighbor Se has length = 2.6016
+Bond 2 with neighbor P1 has length = 1.4295
+Bond 3 with neighbor P1 has length = 1.4309
+
+Se atom 11 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6016
+Bond 1 with neighbor Cd has length = 2.5956
+
+Se atom 12 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5999
+Bond 1 with neighbor Cd has length = 2.5984
+
+Cd atom 13 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5964
+Bond 1 with neighbor Se has length = 2.5994
+Bond 2 with neighbor Se has length = 2.5999
+Bond 3 with neighbor Se has length = 2.5983
+
+Se atom 14 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5983
+Bond 1 with neighbor Cd has length = 2.5936
+
+Se atom 15 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5984
+Bond 1 with neighbor Cd has length = 2.5999
+
+Cd atom 16 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5954
+Bond 1 with neighbor Se has length = 2.5984
+Bond 2 with neighbor Se has length = 2.5984
+Bond 3 with neighbor Se has length = 2.5964
+
+Se atom 17 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5964
+Bond 1 with neighbor Cd has length = 2.5927
+
+Se atom 18 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5994
+Bond 1 with neighbor Cd has length = 2.6031
+
+Cd atom 19 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5964
+Bond 1 with neighbor Se has length = 2.5999
+Bond 2 with neighbor Se has length = 2.5994
+Bond 3 with neighbor Se has length = 2.5983
+
+Se atom 20 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5983
+Bond 1 with neighbor Cd has length = 2.5936
+
+Cd atom 21 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6031
+Bond 1 with neighbor Se has length = 2.6016
+Bond 2 with neighbor P1 has length = 1.4295
+Bond 3 with neighbor P1 has length = 1.4309
+
+Se atom 22 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6016
+Bond 1 with neighbor Cd has length = 2.5956
+
+Se atom 23 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6019
+Bond 1 with neighbor Cd has length = 2.5975
+
+Cd atom 24 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6019
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4293
+Bond 3 with neighbor P1 has length = 1.4301
+
+Se atom 25 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5955
+
+Se atom 26 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5984
+Bond 1 with neighbor Cd has length = 2.5958
+
+Cd atom 27 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5956
+Bond 1 with neighbor Se has length = 2.5975
+Bond 2 with neighbor Se has length = 2.5984
+Bond 3 with neighbor Se has length = 2.5974
+
+Se atom 28 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5974
+Bond 1 with neighbor Cd has length = 2.5929
+
+Se atom 29 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5961
+Bond 1 with neighbor Cd has length = 2.5953
+
+Cd atom 30 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5936
+Bond 1 with neighbor Se has length = 2.5958
+Bond 2 with neighbor Se has length = 2.5961
+Bond 3 with neighbor Se has length = 2.5949
+
+Se atom 31 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5949
+Bond 1 with neighbor Cd has length = 2.5915
+
+Se atom 32 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5953
+Bond 1 with neighbor Cd has length = 2.5961
+
+Cd atom 33 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5927
+Bond 1 with neighbor Se has length = 2.5953
+Bond 2 with neighbor Se has length = 2.5953
+Bond 3 with neighbor Se has length = 2.5942
+
+Se atom 34 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5942
+Bond 1 with neighbor Cd has length = 2.5914
+
+Se atom 35 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5958
+Bond 1 with neighbor Cd has length = 2.5984
+
+Cd atom 36 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5936
+Bond 1 with neighbor Se has length = 2.5961
+Bond 2 with neighbor Se has length = 2.5958
+Bond 3 with neighbor Se has length = 2.5949
+
+Se atom 37 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5949
+Bond 1 with neighbor Cd has length = 2.5915
+
+Se atom 38 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5975
+Bond 1 with neighbor Cd has length = 2.6019
+
+Cd atom 39 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5956
+Bond 1 with neighbor Se has length = 2.5984
+Bond 2 with neighbor Se has length = 2.5975
+Bond 3 with neighbor Se has length = 2.5974
+
+Se atom 40 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5974
+Bond 1 with neighbor Cd has length = 2.5929
+
+Cd atom 41 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6019
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4293
+Bond 3 with neighbor P1 has length = 1.4301
+
+Se atom 42 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5955
+
+Se atom 43 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5962
+
+Cd atom 44 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4295
+Bond 3 with neighbor P1 has length = 1.4298
+
+Se atom 45 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5954
+
+Se atom 46 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5973
+Bond 1 with neighbor Cd has length = 2.5944
+
+Cd atom 47 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5955
+Bond 1 with neighbor Se has length = 2.5962
+Bond 2 with neighbor Se has length = 2.5973
+Bond 3 with neighbor Se has length = 2.5969
+
+Se atom 48 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5969
+Bond 1 with neighbor Cd has length = 2.5926
+
+Se atom 49 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5951
+Bond 1 with neighbor Cd has length = 2.5934
+
+Cd atom 50 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5929
+Bond 1 with neighbor Se has length = 2.5944
+Bond 2 with neighbor Se has length = 2.5951
+Bond 3 with neighbor Se has length = 2.5943
+
+Se atom 51 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5943
+Bond 1 with neighbor Cd has length = 2.5914
+
+Se atom 52 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5937
+Bond 1 with neighbor Cd has length = 2.5931
+
+Cd atom 53 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5915
+Bond 1 with neighbor Se has length = 2.5934
+Bond 2 with neighbor Se has length = 2.5937
+Bond 3 with neighbor Se has length = 2.5931
+
+Se atom 54 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5906
+
+Se atom 55 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5937
+
+Cd atom 56 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5914
+Bond 1 with neighbor Se has length = 2.5931
+Bond 2 with neighbor Se has length = 2.5931
+Bond 3 with neighbor Se has length = 2.5924
+
+Se atom 57 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5924
+Bond 1 with neighbor Cd has length = 2.5900
+
+Se atom 58 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5934
+Bond 1 with neighbor Cd has length = 2.5951
+
+Cd atom 59 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5915
+Bond 1 with neighbor Se has length = 2.5937
+Bond 2 with neighbor Se has length = 2.5934
+Bond 3 with neighbor Se has length = 2.5931
+
+Se atom 60 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5906
+
+Se atom 61 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5944
+Bond 1 with neighbor Cd has length = 2.5973
+
+Cd atom 62 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5929
+Bond 1 with neighbor Se has length = 2.5951
+Bond 2 with neighbor Se has length = 2.5944
+Bond 3 with neighbor Se has length = 2.5943
+
+Se atom 63 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5943
+Bond 1 with neighbor Cd has length = 2.5914
+
+Se atom 64 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5962
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 65 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5955
+Bond 1 with neighbor Se has length = 2.5973
+Bond 2 with neighbor Se has length = 2.5962
+Bond 3 with neighbor Se has length = 2.5969
+
+Se atom 66 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5969
+Bond 1 with neighbor Cd has length = 2.5926
+
+Cd atom 67 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4295
+Bond 3 with neighbor P1 has length = 1.4298
+
+Se atom 68 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5954
+
+Se atom 69 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6010
+Bond 1 with neighbor Cd has length = 2.5956
+
+Cd atom 70 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6010
+Bond 1 with neighbor Se has length = 2.6010
+Bond 2 with neighbor P1 has length = 1.4293
+Bond 3 with neighbor P1 has length = 1.4293
+
+Se atom 71 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6010
+Bond 1 with neighbor Cd has length = 2.5956
+
+Se atom 72 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5968
+Bond 1 with neighbor Cd has length = 2.5931
+
+Cd atom 73 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5954
+Bond 1 with neighbor Se has length = 2.5956
+Bond 2 with neighbor Se has length = 2.5968
+Bond 3 with neighbor Se has length = 2.5968
+
+Se atom 74 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5968
+Bond 1 with neighbor Cd has length = 2.5925
+
+Se atom 75 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5940
+Bond 1 with neighbor Cd has length = 2.5921
+
+Cd atom 76 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5926
+Bond 1 with neighbor Se has length = 2.5931
+Bond 2 with neighbor Se has length = 2.5940
+Bond 3 with neighbor Se has length = 2.5940
+
+Se atom 77 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5940
+Bond 1 with neighbor Cd has length = 2.5910
+
+Se atom 78 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5929
+Bond 1 with neighbor Cd has length = 2.5915
+
+Cd atom 79 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5914
+Bond 1 with neighbor Se has length = 2.5921
+Bond 2 with neighbor Se has length = 2.5929
+Bond 3 with neighbor Se has length = 2.5925
+
+Se atom 80 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5925
+Bond 1 with neighbor Cd has length = 2.5900
+
+Se atom 81 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5920
+Bond 1 with neighbor Cd has length = 2.5913
+
+Cd atom 82 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5906
+Bond 1 with neighbor Se has length = 2.5915
+Bond 2 with neighbor Se has length = 2.5920
+Bond 3 with neighbor Se has length = 2.5913
+
+Se atom 83 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5913
+Bond 1 with neighbor Cd has length = 2.5894
+
+Se atom 84 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5913
+Bond 1 with neighbor Cd has length = 2.5920
+
+Cd atom 85 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5900
+Bond 1 with neighbor Se has length = 2.5913
+Bond 2 with neighbor Se has length = 2.5913
+Bond 3 with neighbor Se has length = 2.5908
+
+Se atom 86 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5908
+Bond 1 with neighbor Cd has length = 2.5894
+
+Se atom 87 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5915
+Bond 1 with neighbor Cd has length = 2.5929
+
+Cd atom 88 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5906
+Bond 1 with neighbor Se has length = 2.5920
+Bond 2 with neighbor Se has length = 2.5915
+Bond 3 with neighbor Se has length = 2.5913
+
+Se atom 89 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5913
+Bond 1 with neighbor Cd has length = 2.5894
+
+Se atom 90 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5940
+
+Cd atom 91 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5914
+Bond 1 with neighbor Se has length = 2.5929
+Bond 2 with neighbor Se has length = 2.5921
+Bond 3 with neighbor Se has length = 2.5925
+
+Se atom 92 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5925
+Bond 1 with neighbor Cd has length = 2.5900
+
+Se atom 93 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5968
+
+Cd atom 94 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5926
+Bond 1 with neighbor Se has length = 2.5940
+Bond 2 with neighbor Se has length = 2.5931
+Bond 3 with neighbor Se has length = 2.5940
+
+Se atom 95 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5940
+Bond 1 with neighbor Cd has length = 2.5910
+
+Se atom 96 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5956
+Bond 1 with neighbor Cd has length = 2.6010
+
+Cd atom 97 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5954
+Bond 1 with neighbor Se has length = 2.5968
+Bond 2 with neighbor Se has length = 2.5956
+Bond 3 with neighbor Se has length = 2.5968
+
+Se atom 98 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5968
+Bond 1 with neighbor Cd has length = 2.5925
+
+Cd atom 99 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6010
+Bond 1 with neighbor Se has length = 2.6010
+Bond 2 with neighbor P1 has length = 1.4293
+Bond 3 with neighbor P1 has length = 1.4293
+
+Se atom 100 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6010
+Bond 1 with neighbor Cd has length = 2.5956
+
+Se atom 101 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5954
+
+Cd atom 102 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4298
+Bond 3 with neighbor P1 has length = 1.4295
+
+Se atom 103 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5962
+
+Se atom 104 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5968
+Bond 1 with neighbor Cd has length = 2.5925
+
+Cd atom 105 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5956
+Bond 1 with neighbor Se has length = 2.5954
+Bond 2 with neighbor Se has length = 2.5968
+Bond 3 with neighbor Se has length = 2.5968
+
+Se atom 106 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5968
+Bond 1 with neighbor Cd has length = 2.5931
+
+Se atom 107 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5934
+Bond 1 with neighbor Cd has length = 2.5914
+
+Cd atom 108 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5925
+Bond 1 with neighbor Se has length = 2.5925
+Bond 2 with neighbor Se has length = 2.5934
+Bond 3 with neighbor Se has length = 2.5934
+
+Se atom 109 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5934
+Bond 1 with neighbor Cd has length = 2.5914
+
+Se atom 110 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5906
+
+Cd atom 111 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5910
+Bond 1 with neighbor Se has length = 2.5914
+Bond 2 with neighbor Se has length = 2.5921
+Bond 3 with neighbor Se has length = 2.5921
+
+Se atom 112 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5897
+
+Se atom 113 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5909
+Bond 1 with neighbor Cd has length = 2.5898
+
+Cd atom 114 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5900
+Bond 1 with neighbor Se has length = 2.5906
+Bond 2 with neighbor Se has length = 2.5909
+Bond 3 with neighbor Se has length = 2.5910
+
+Se atom 115 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5910
+Bond 1 with neighbor Cd has length = 2.5891
+
+Se atom 116 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5905
+Bond 1 with neighbor Cd has length = 2.5902
+
+Cd atom 117 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5894
+Bond 1 with neighbor Se has length = 2.5898
+Bond 2 with neighbor Se has length = 2.5905
+Bond 3 with neighbor Se has length = 2.5901
+
+Se atom 118 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5901
+Bond 1 with neighbor Cd has length = 2.5889
+
+Se atom 119 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5902
+Bond 1 with neighbor Cd has length = 2.5905
+
+Cd atom 120 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5894
+Bond 1 with neighbor Se has length = 2.5902
+Bond 2 with neighbor Se has length = 2.5902
+Bond 3 with neighbor Se has length = 2.5899
+
+Se atom 121 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5899
+Bond 1 with neighbor Cd has length = 2.5891
+
+Se atom 122 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5898
+Bond 1 with neighbor Cd has length = 2.5909
+
+Cd atom 123 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5894
+Bond 1 with neighbor Se has length = 2.5905
+Bond 2 with neighbor Se has length = 2.5898
+Bond 3 with neighbor Se has length = 2.5901
+
+Se atom 124 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5901
+Bond 1 with neighbor Cd has length = 2.5889
+
+Se atom 125 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5906
+Bond 1 with neighbor Cd has length = 2.5921
+
+Cd atom 126 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5900
+Bond 1 with neighbor Se has length = 2.5909
+Bond 2 with neighbor Se has length = 2.5906
+Bond 3 with neighbor Se has length = 2.5910
+
+Se atom 127 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5910
+Bond 1 with neighbor Cd has length = 2.5891
+
+Se atom 128 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5934
+
+Cd atom 129 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5910
+Bond 1 with neighbor Se has length = 2.5921
+Bond 2 with neighbor Se has length = 2.5914
+Bond 3 with neighbor Se has length = 2.5921
+
+Se atom 130 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5897
+
+Se atom 131 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5925
+Bond 1 with neighbor Cd has length = 2.5968
+
+Cd atom 132 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5925
+Bond 1 with neighbor Se has length = 2.5934
+Bond 2 with neighbor Se has length = 2.5925
+Bond 3 with neighbor Se has length = 2.5934
+
+Se atom 133 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5934
+Bond 1 with neighbor Cd has length = 2.5914
+
+Se atom 134 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5954
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 135 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5956
+Bond 1 with neighbor Se has length = 2.5968
+Bond 2 with neighbor Se has length = 2.5954
+Bond 3 with neighbor Se has length = 2.5968
+
+Se atom 136 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5968
+Bond 1 with neighbor Cd has length = 2.5931
+
+Cd atom 137 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4298
+Bond 3 with neighbor P1 has length = 1.4295
+
+Se atom 138 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5962
+
+Se atom 139 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5955
+
+Cd atom 140 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6019
+Bond 2 with neighbor P1 has length = 1.4301
+Bond 3 with neighbor P1 has length = 1.4293
+
+Se atom 141 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6019
+Bond 1 with neighbor Cd has length = 2.5975
+
+Se atom 142 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5969
+Bond 1 with neighbor Cd has length = 2.5926
+
+Cd atom 143 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5962
+Bond 1 with neighbor Se has length = 2.5955
+Bond 2 with neighbor Se has length = 2.5969
+Bond 3 with neighbor Se has length = 2.5973
+
+Se atom 144 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5973
+Bond 1 with neighbor Cd has length = 2.5944
+
+Se atom 145 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5940
+Bond 1 with neighbor Cd has length = 2.5910
+
+Cd atom 146 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5931
+Bond 1 with neighbor Se has length = 2.5926
+Bond 2 with neighbor Se has length = 2.5940
+Bond 3 with neighbor Se has length = 2.5940
+
+Se atom 147 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5940
+Bond 1 with neighbor Cd has length = 2.5921
+
+Se atom 148 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5897
+
+Cd atom 149 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5914
+Bond 1 with neighbor Se has length = 2.5910
+Bond 2 with neighbor Se has length = 2.5921
+Bond 3 with neighbor Se has length = 2.5921
+
+Se atom 150 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5906
+
+Se atom 151 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5904
+Bond 1 with neighbor Cd has length = 2.5895
+
+Cd atom 152 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5897
+Bond 1 with neighbor Se has length = 2.5897
+Bond 2 with neighbor Se has length = 2.5904
+Bond 3 with neighbor Se has length = 2.5904
+
+Se atom 153 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5904
+Bond 1 with neighbor Cd has length = 2.5895
+
+Se atom 154 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5894
+
+Cd atom 155 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5891
+Bond 1 with neighbor Se has length = 2.5895
+Bond 2 with neighbor Se has length = 2.5900
+Bond 3 with neighbor Se has length = 2.5901
+
+Se atom 156 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5901
+Bond 1 with neighbor Cd has length = 2.5886
+
+Se atom 157 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5895
+
+Cd atom 158 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5889
+Bond 1 with neighbor Se has length = 2.5894
+Bond 2 with neighbor Se has length = 2.5895
+Bond 3 with neighbor Se has length = 2.5894
+
+Se atom 159 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5881
+
+Se atom 160 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5895
+
+Cd atom 161 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5891
+Bond 1 with neighbor Se has length = 2.5895
+Bond 2 with neighbor Se has length = 2.5895
+Bond 3 with neighbor Se has length = 2.5891
+
+Se atom 162 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5891
+Bond 1 with neighbor Cd has length = 2.5878
+
+Se atom 163 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5900
+
+Cd atom 164 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5889
+Bond 1 with neighbor Se has length = 2.5895
+Bond 2 with neighbor Se has length = 2.5894
+Bond 3 with neighbor Se has length = 2.5894
+
+Se atom 165 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5881
+
+Se atom 166 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5904
+
+Cd atom 167 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5891
+Bond 1 with neighbor Se has length = 2.5900
+Bond 2 with neighbor Se has length = 2.5895
+Bond 3 with neighbor Se has length = 2.5901
+
+Se atom 168 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5901
+Bond 1 with neighbor Cd has length = 2.5886
+
+Se atom 169 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5897
+Bond 1 with neighbor Cd has length = 2.5921
+
+Cd atom 170 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5897
+Bond 1 with neighbor Se has length = 2.5904
+Bond 2 with neighbor Se has length = 2.5897
+Bond 3 with neighbor Se has length = 2.5904
+
+Se atom 171 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5904
+Bond 1 with neighbor Cd has length = 2.5895
+
+Se atom 172 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5910
+Bond 1 with neighbor Cd has length = 2.5940
+
+Cd atom 173 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5914
+Bond 1 with neighbor Se has length = 2.5921
+Bond 2 with neighbor Se has length = 2.5910
+Bond 3 with neighbor Se has length = 2.5921
+
+Se atom 174 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5906
+
+Se atom 175 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5926
+Bond 1 with neighbor Cd has length = 2.5969
+
+Cd atom 176 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5931
+Bond 1 with neighbor Se has length = 2.5940
+Bond 2 with neighbor Se has length = 2.5926
+Bond 3 with neighbor Se has length = 2.5940
+
+Se atom 177 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5940
+Bond 1 with neighbor Cd has length = 2.5921
+
+Se atom 178 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5955
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 179 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5962
+Bond 1 with neighbor Se has length = 2.5969
+Bond 2 with neighbor Se has length = 2.5955
+Bond 3 with neighbor Se has length = 2.5973
+
+Se atom 180 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5973
+Bond 1 with neighbor Cd has length = 2.5944
+
+Cd atom 181 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6019
+Bond 2 with neighbor P1 has length = 1.4301
+Bond 3 with neighbor P1 has length = 1.4293
+
+Se atom 182 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6019
+Bond 1 with neighbor Cd has length = 2.5975
+
+Se atom 183 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6016
+Bond 1 with neighbor Cd has length = 2.5956
+
+Cd atom 184 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6016
+Bond 1 with neighbor Se has length = 2.6031
+Bond 2 with neighbor P1 has length = 1.4309
+Bond 3 with neighbor P1 has length = 1.4295
+
+Se atom 185 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6031
+Bond 1 with neighbor Cd has length = 2.5994
+
+Se atom 186 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5974
+Bond 1 with neighbor Cd has length = 2.5929
+
+Cd atom 187 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5975
+Bond 1 with neighbor Se has length = 2.5956
+Bond 2 with neighbor Se has length = 2.5974
+Bond 3 with neighbor Se has length = 2.5984
+
+Se atom 188 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5984
+Bond 1 with neighbor Cd has length = 2.5958
+
+Se atom 189 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5943
+Bond 1 with neighbor Cd has length = 2.5914
+
+Cd atom 190 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5944
+Bond 1 with neighbor Se has length = 2.5929
+Bond 2 with neighbor Se has length = 2.5943
+Bond 3 with neighbor Se has length = 2.5951
+
+Se atom 191 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5951
+Bond 1 with neighbor Cd has length = 2.5934
+
+Se atom 192 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5925
+Bond 1 with neighbor Cd has length = 2.5900
+
+Cd atom 193 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5921
+Bond 1 with neighbor Se has length = 2.5914
+Bond 2 with neighbor Se has length = 2.5925
+Bond 3 with neighbor Se has length = 2.5929
+
+Se atom 194 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5929
+Bond 1 with neighbor Cd has length = 2.5915
+
+Se atom 195 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5910
+Bond 1 with neighbor Cd has length = 2.5891
+
+Cd atom 196 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5906
+Bond 1 with neighbor Se has length = 2.5900
+Bond 2 with neighbor Se has length = 2.5910
+Bond 3 with neighbor Se has length = 2.5909
+
+Se atom 197 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5909
+Bond 1 with neighbor Cd has length = 2.5898
+
+Se atom 198 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5901
+Bond 1 with neighbor Cd has length = 2.5886
+
+Cd atom 199 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5895
+Bond 1 with neighbor Se has length = 2.5891
+Bond 2 with neighbor Se has length = 2.5901
+Bond 3 with neighbor Se has length = 2.5900
+
+Se atom 200 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5894
+
+Se atom 201 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5890
+Bond 1 with neighbor Cd has length = 2.5884
+
+Cd atom 202 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5886
+Bond 1 with neighbor Se has length = 2.5886
+Bond 2 with neighbor Se has length = 2.5890
+Bond 3 with neighbor Se has length = 2.5890
+
+Se atom 203 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5890
+Bond 1 with neighbor Cd has length = 2.5884
+
+Se atom 204 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5888
+Bond 1 with neighbor Cd has length = 2.5889
+
+Cd atom 205 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5881
+Bond 1 with neighbor Se has length = 2.5884
+Bond 2 with neighbor Se has length = 2.5888
+Bond 3 with neighbor Se has length = 2.5889
+
+Se atom 206 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5873
+
+Se atom 207 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5888
+
+Cd atom 208 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5878
+Bond 1 with neighbor Se has length = 2.5889
+Bond 2 with neighbor Se has length = 2.5889
+Bond 3 with neighbor Se has length = 2.5893
+
+Se atom 209 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5893
+Bond 1 with neighbor Cd has length = 2.5874
+
+Se atom 210 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5884
+Bond 1 with neighbor Cd has length = 2.5890
+
+Cd atom 211 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5881
+Bond 1 with neighbor Se has length = 2.5888
+Bond 2 with neighbor Se has length = 2.5884
+Bond 3 with neighbor Se has length = 2.5889
+
+Se atom 212 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5873
+
+Se atom 213 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5886
+Bond 1 with neighbor Cd has length = 2.5901
+
+Cd atom 214 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5886
+Bond 1 with neighbor Se has length = 2.5890
+Bond 2 with neighbor Se has length = 2.5886
+Bond 3 with neighbor Se has length = 2.5890
+
+Se atom 215 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5890
+Bond 1 with neighbor Cd has length = 2.5884
+
+Se atom 216 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5891
+Bond 1 with neighbor Cd has length = 2.5910
+
+Cd atom 217 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5895
+Bond 1 with neighbor Se has length = 2.5901
+Bond 2 with neighbor Se has length = 2.5891
+Bond 3 with neighbor Se has length = 2.5900
+
+Se atom 218 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5894
+
+Se atom 219 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5925
+
+Cd atom 220 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5906
+Bond 1 with neighbor Se has length = 2.5910
+Bond 2 with neighbor Se has length = 2.5900
+Bond 3 with neighbor Se has length = 2.5909
+
+Se atom 221 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5909
+Bond 1 with neighbor Cd has length = 2.5898
+
+Se atom 222 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5943
+
+Cd atom 223 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5921
+Bond 1 with neighbor Se has length = 2.5925
+Bond 2 with neighbor Se has length = 2.5914
+Bond 3 with neighbor Se has length = 2.5929
+
+Se atom 224 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5929
+Bond 1 with neighbor Cd has length = 2.5915
+
+Se atom 225 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5929
+Bond 1 with neighbor Cd has length = 2.5974
+
+Cd atom 226 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5944
+Bond 1 with neighbor Se has length = 2.5943
+Bond 2 with neighbor Se has length = 2.5929
+Bond 3 with neighbor Se has length = 2.5951
+
+Se atom 227 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5951
+Bond 1 with neighbor Cd has length = 2.5934
+
+Se atom 228 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5956
+Bond 1 with neighbor Cd has length = 2.6016
+
+Cd atom 229 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5975
+Bond 1 with neighbor Se has length = 2.5974
+Bond 2 with neighbor Se has length = 2.5956
+Bond 3 with neighbor Se has length = 2.5984
+
+Se atom 230 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5984
+Bond 1 with neighbor Cd has length = 2.5958
+
+Cd atom 231 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6016
+Bond 1 with neighbor Se has length = 2.6031
+Bond 2 with neighbor P1 has length = 1.4309
+Bond 3 with neighbor P1 has length = 1.4295
+
+Se atom 232 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6031
+Bond 1 with neighbor Cd has length = 2.5994
+
+Se atom 233 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6025
+Bond 1 with neighbor Cd has length = 2.5964
+
+Cd atom 234 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6025
+Bond 1 with neighbor Se has length = 2.6053
+Bond 2 with neighbor P1 has length = 1.4319
+Bond 3 with neighbor P1 has length = 1.4299
+
+Se atom 235 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6053
+Bond 1 with neighbor Cd has length = 2.6038
+
+Se atom 236 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5983
+Bond 1 with neighbor Cd has length = 2.5936
+
+Cd atom 237 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5994
+Bond 1 with neighbor Se has length = 2.5964
+Bond 2 with neighbor Se has length = 2.5983
+Bond 3 with neighbor Se has length = 2.5999
+
+Se atom 238 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5999
+Bond 1 with neighbor Cd has length = 2.5984
+
+Se atom 239 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5949
+Bond 1 with neighbor Cd has length = 2.5915
+
+Cd atom 240 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5958
+Bond 1 with neighbor Se has length = 2.5936
+Bond 2 with neighbor Se has length = 2.5949
+Bond 3 with neighbor Se has length = 2.5961
+
+Se atom 241 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5961
+Bond 1 with neighbor Cd has length = 2.5953
+
+Se atom 242 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5906
+
+Cd atom 243 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5934
+Bond 1 with neighbor Se has length = 2.5915
+Bond 2 with neighbor Se has length = 2.5931
+Bond 3 with neighbor Se has length = 2.5937
+
+Se atom 244 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5937
+Bond 1 with neighbor Cd has length = 2.5931
+
+Se atom 245 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5913
+Bond 1 with neighbor Cd has length = 2.5894
+
+Cd atom 246 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5915
+Bond 1 with neighbor Se has length = 2.5906
+Bond 2 with neighbor Se has length = 2.5913
+Bond 3 with neighbor Se has length = 2.5920
+
+Se atom 247 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5920
+Bond 1 with neighbor Cd has length = 2.5913
+
+Se atom 248 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5901
+Bond 1 with neighbor Cd has length = 2.5889
+
+Cd atom 249 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5898
+Bond 1 with neighbor Se has length = 2.5894
+Bond 2 with neighbor Se has length = 2.5901
+Bond 3 with neighbor Se has length = 2.5905
+
+Se atom 250 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5905
+Bond 1 with neighbor Cd has length = 2.5902
+
+Se atom 251 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5881
+
+Cd atom 252 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5894
+Bond 1 with neighbor Se has length = 2.5889
+Bond 2 with neighbor Se has length = 2.5894
+Bond 3 with neighbor Se has length = 2.5895
+
+Se atom 253 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5895
+
+Se atom 254 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5873
+
+Cd atom 255 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5884
+Bond 1 with neighbor Se has length = 2.5881
+Bond 2 with neighbor Se has length = 2.5889
+Bond 3 with neighbor Se has length = 2.5888
+
+Se atom 256 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5888
+Bond 1 with neighbor Cd has length = 2.5889
+
+Se atom 257 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5885
+Bond 1 with neighbor Cd has length = 2.5883
+
+Cd atom 258 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5873
+Bond 1 with neighbor Se has length = 2.5873
+Bond 2 with neighbor Se has length = 2.5885
+Bond 3 with neighbor Se has length = 2.5885
+
+Se atom 259 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5885
+Bond 1 with neighbor Cd has length = 2.5883
+
+Se atom 260 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5883
+Bond 1 with neighbor Cd has length = 2.5885
+
+Cd atom 261 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5874
+Bond 1 with neighbor Se has length = 2.5883
+Bond 2 with neighbor Se has length = 2.5883
+Bond 3 with neighbor Se has length = 2.5887
+
+Se atom 262 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5887
+Bond 1 with neighbor Cd has length = 2.5879
+
+Se atom 263 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5873
+Bond 1 with neighbor Cd has length = 2.5889
+
+Cd atom 264 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5873
+Bond 1 with neighbor Se has length = 2.5885
+Bond 2 with neighbor Se has length = 2.5873
+Bond 3 with neighbor Se has length = 2.5885
+
+Se atom 265 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5885
+Bond 1 with neighbor Cd has length = 2.5883
+
+Se atom 266 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5881
+Bond 1 with neighbor Cd has length = 2.5894
+
+Cd atom 267 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5884
+Bond 1 with neighbor Se has length = 2.5889
+Bond 2 with neighbor Se has length = 2.5881
+Bond 3 with neighbor Se has length = 2.5888
+
+Se atom 268 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5888
+Bond 1 with neighbor Cd has length = 2.5889
+
+Se atom 269 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5901
+
+Cd atom 270 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5894
+Bond 1 with neighbor Se has length = 2.5894
+Bond 2 with neighbor Se has length = 2.5889
+Bond 3 with neighbor Se has length = 2.5895
+
+Se atom 271 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5895
+
+Se atom 272 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5913
+
+Cd atom 273 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5898
+Bond 1 with neighbor Se has length = 2.5901
+Bond 2 with neighbor Se has length = 2.5894
+Bond 3 with neighbor Se has length = 2.5905
+
+Se atom 274 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5905
+Bond 1 with neighbor Cd has length = 2.5902
+
+Se atom 275 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5906
+Bond 1 with neighbor Cd has length = 2.5931
+
+Cd atom 276 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5915
+Bond 1 with neighbor Se has length = 2.5913
+Bond 2 with neighbor Se has length = 2.5906
+Bond 3 with neighbor Se has length = 2.5920
+
+Se atom 277 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5920
+Bond 1 with neighbor Cd has length = 2.5913
+
+Se atom 278 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5915
+Bond 1 with neighbor Cd has length = 2.5949
+
+Cd atom 279 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5934
+Bond 1 with neighbor Se has length = 2.5931
+Bond 2 with neighbor Se has length = 2.5915
+Bond 3 with neighbor Se has length = 2.5937
+
+Se atom 280 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5937
+Bond 1 with neighbor Cd has length = 2.5931
+
+Se atom 281 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5936
+Bond 1 with neighbor Cd has length = 2.5983
+
+Cd atom 282 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5958
+Bond 1 with neighbor Se has length = 2.5949
+Bond 2 with neighbor Se has length = 2.5936
+Bond 3 with neighbor Se has length = 2.5961
+
+Se atom 283 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5961
+Bond 1 with neighbor Cd has length = 2.5953
+
+Se atom 284 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5964
+Bond 1 with neighbor Cd has length = 2.6025
+
+Cd atom 285 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5994
+Bond 1 with neighbor Se has length = 2.5983
+Bond 2 with neighbor Se has length = 2.5964
+Bond 3 with neighbor Se has length = 2.5999
+
+Se atom 286 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5999
+Bond 1 with neighbor Cd has length = 2.5984
+
+Cd atom 287 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6025
+Bond 1 with neighbor Se has length = 2.6053
+Bond 2 with neighbor P1 has length = 1.4319
+Bond 3 with neighbor P1 has length = 1.4299
+
+Se atom 288 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6053
+Bond 1 with neighbor Cd has length = 2.6038
+
+Se atom 289 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5991
+Bond 1 with neighbor P2 has length = 0.7822
+
+Se atom 290 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5954
+
+Cd atom 291 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6038
+Bond 1 with neighbor Se has length = 2.5991
+Bond 2 with neighbor Se has length = 2.6015
+Bond 3 with neighbor Se has length = 2.6038
+
+Se atom 292 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6038
+Bond 1 with neighbor Cd has length = 2.6053
+
+Se atom 293 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5964
+Bond 1 with neighbor Cd has length = 2.5927
+
+Cd atom 294 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5984
+Bond 1 with neighbor Se has length = 2.5954
+Bond 2 with neighbor Se has length = 2.5964
+Bond 3 with neighbor Se has length = 2.5984
+
+Se atom 295 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5984
+Bond 1 with neighbor Cd has length = 2.5999
+
+Se atom 296 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5942
+Bond 1 with neighbor Cd has length = 2.5914
+
+Cd atom 297 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5953
+Bond 1 with neighbor Se has length = 2.5927
+Bond 2 with neighbor Se has length = 2.5942
+Bond 3 with neighbor Se has length = 2.5953
+
+Se atom 298 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5953
+Bond 1 with neighbor Cd has length = 2.5961
+
+Se atom 299 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5924
+Bond 1 with neighbor Cd has length = 2.5900
+
+Cd atom 300 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5931
+Bond 1 with neighbor Se has length = 2.5914
+Bond 2 with neighbor Se has length = 2.5924
+Bond 3 with neighbor Se has length = 2.5931
+
+Se atom 301 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5937
+
+Se atom 302 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5908
+Bond 1 with neighbor Cd has length = 2.5894
+
+Cd atom 303 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5913
+Bond 1 with neighbor Se has length = 2.5900
+Bond 2 with neighbor Se has length = 2.5908
+Bond 3 with neighbor Se has length = 2.5913
+
+Se atom 304 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5913
+Bond 1 with neighbor Cd has length = 2.5920
+
+Se atom 305 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5899
+Bond 1 with neighbor Cd has length = 2.5891
+
+Cd atom 306 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5902
+Bond 1 with neighbor Se has length = 2.5894
+Bond 2 with neighbor Se has length = 2.5899
+Bond 3 with neighbor Se has length = 2.5902
+
+Se atom 307 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5902
+Bond 1 with neighbor Cd has length = 2.5905
+
+Se atom 308 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5891
+Bond 1 with neighbor Cd has length = 2.5878
+
+Cd atom 309 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5895
+Bond 1 with neighbor Se has length = 2.5891
+Bond 2 with neighbor Se has length = 2.5891
+Bond 3 with neighbor Se has length = 2.5895
+
+Se atom 310 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5895
+
+Se atom 311 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5893
+Bond 1 with neighbor Cd has length = 2.5874
+
+Cd atom 312 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5889
+Bond 1 with neighbor Se has length = 2.5878
+Bond 2 with neighbor Se has length = 2.5893
+Bond 3 with neighbor Se has length = 2.5889
+
+Se atom 313 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5888
+
+Se atom 314 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5887
+Bond 1 with neighbor Cd has length = 2.5879
+
+Cd atom 315 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5883
+Bond 1 with neighbor Se has length = 2.5874
+Bond 2 with neighbor Se has length = 2.5887
+Bond 3 with neighbor Se has length = 2.5883
+
+Se atom 316 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5883
+Bond 1 with neighbor Cd has length = 2.5885
+
+Se atom 317 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5879
+Bond 1 with neighbor Cd has length = 2.5887
+
+Cd atom 318 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5879
+Bond 1 with neighbor Se has length = 2.5879
+Bond 2 with neighbor Se has length = 2.5879
+Bond 3 with neighbor Se has length = 2.5879
+
+Se atom 319 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5879
+Bond 1 with neighbor Cd has length = 2.5887
+
+Se atom 320 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5874
+Bond 1 with neighbor Cd has length = 2.5893
+
+Cd atom 321 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5883
+Bond 1 with neighbor Se has length = 2.5887
+Bond 2 with neighbor Se has length = 2.5874
+Bond 3 with neighbor Se has length = 2.5883
+
+Se atom 322 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5883
+Bond 1 with neighbor Cd has length = 2.5885
+
+Se atom 323 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5878
+Bond 1 with neighbor Cd has length = 2.5891
+
+Cd atom 324 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5889
+Bond 1 with neighbor Se has length = 2.5893
+Bond 2 with neighbor Se has length = 2.5878
+Bond 3 with neighbor Se has length = 2.5889
+
+Se atom 325 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5888
+
+Se atom 326 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5891
+Bond 1 with neighbor Cd has length = 2.5899
+
+Cd atom 327 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5895
+Bond 1 with neighbor Se has length = 2.5891
+Bond 2 with neighbor Se has length = 2.5891
+Bond 3 with neighbor Se has length = 2.5895
+
+Se atom 328 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5895
+
+Se atom 329 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5908
+
+Cd atom 330 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5902
+Bond 1 with neighbor Se has length = 2.5899
+Bond 2 with neighbor Se has length = 2.5894
+Bond 3 with neighbor Se has length = 2.5902
+
+Se atom 331 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5902
+Bond 1 with neighbor Cd has length = 2.5905
+
+Se atom 332 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5924
+
+Cd atom 333 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5913
+Bond 1 with neighbor Se has length = 2.5908
+Bond 2 with neighbor Se has length = 2.5900
+Bond 3 with neighbor Se has length = 2.5913
+
+Se atom 334 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5913
+Bond 1 with neighbor Cd has length = 2.5920
+
+Se atom 335 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5942
+
+Cd atom 336 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5931
+Bond 1 with neighbor Se has length = 2.5924
+Bond 2 with neighbor Se has length = 2.5914
+Bond 3 with neighbor Se has length = 2.5931
+
+Se atom 337 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5937
+
+Se atom 338 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5927
+Bond 1 with neighbor Cd has length = 2.5964
+
+Cd atom 339 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5953
+Bond 1 with neighbor Se has length = 2.5942
+Bond 2 with neighbor Se has length = 2.5927
+Bond 3 with neighbor Se has length = 2.5953
+
+Se atom 340 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5953
+Bond 1 with neighbor Cd has length = 2.5961
+
+Se atom 341 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5954
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 342 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5984
+Bond 1 with neighbor Se has length = 2.5964
+Bond 2 with neighbor Se has length = 2.5954
+Bond 3 with neighbor Se has length = 2.5984
+
+Se atom 343 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5984
+Bond 1 with neighbor Cd has length = 2.5999
+
+Se atom 344 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5991
+Bond 1 with neighbor P2 has length = 0.7822
+
+Cd atom 345 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6038
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor Se has length = 2.5991
+Bond 3 with neighbor Se has length = 2.6038
+
+Se atom 346 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6038
+Bond 1 with neighbor Cd has length = 2.6053
+
+Se atom 347 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6025
+Bond 1 with neighbor Cd has length = 2.5964
+
+Cd atom 348 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6053
+Bond 1 with neighbor Se has length = 2.6025
+Bond 2 with neighbor P1 has length = 1.4299
+Bond 3 with neighbor P1 has length = 1.4319
+
+Se atom 349 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5983
+Bond 1 with neighbor Cd has length = 2.5936
+
+Cd atom 350 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5999
+Bond 1 with neighbor Se has length = 2.5964
+Bond 2 with neighbor Se has length = 2.5983
+Bond 3 with neighbor Se has length = 2.5994
+
+Se atom 351 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5994
+Bond 1 with neighbor Cd has length = 2.6031
+
+Se atom 352 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5949
+Bond 1 with neighbor Cd has length = 2.5915
+
+Cd atom 353 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5961
+Bond 1 with neighbor Se has length = 2.5936
+Bond 2 with neighbor Se has length = 2.5949
+Bond 3 with neighbor Se has length = 2.5958
+
+Se atom 354 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5958
+Bond 1 with neighbor Cd has length = 2.5984
+
+Se atom 355 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5906
+
+Cd atom 356 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5937
+Bond 1 with neighbor Se has length = 2.5915
+Bond 2 with neighbor Se has length = 2.5931
+Bond 3 with neighbor Se has length = 2.5934
+
+Se atom 357 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5934
+Bond 1 with neighbor Cd has length = 2.5951
+
+Se atom 358 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5913
+Bond 1 with neighbor Cd has length = 2.5894
+
+Cd atom 359 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5920
+Bond 1 with neighbor Se has length = 2.5906
+Bond 2 with neighbor Se has length = 2.5913
+Bond 3 with neighbor Se has length = 2.5915
+
+Se atom 360 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5915
+Bond 1 with neighbor Cd has length = 2.5929
+
+Se atom 361 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5901
+Bond 1 with neighbor Cd has length = 2.5889
+
+Cd atom 362 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5905
+Bond 1 with neighbor Se has length = 2.5894
+Bond 2 with neighbor Se has length = 2.5901
+Bond 3 with neighbor Se has length = 2.5898
+
+Se atom 363 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5898
+Bond 1 with neighbor Cd has length = 2.5909
+
+Se atom 364 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5881
+
+Cd atom 365 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5895
+Bond 1 with neighbor Se has length = 2.5889
+Bond 2 with neighbor Se has length = 2.5894
+Bond 3 with neighbor Se has length = 2.5894
+
+Se atom 366 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5900
+
+Se atom 367 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5873
+
+Cd atom 368 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5888
+Bond 1 with neighbor Se has length = 2.5881
+Bond 2 with neighbor Se has length = 2.5889
+Bond 3 with neighbor Se has length = 2.5884
+
+Se atom 369 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5884
+Bond 1 with neighbor Cd has length = 2.5890
+
+Se atom 370 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5885
+Bond 1 with neighbor Cd has length = 2.5883
+
+Cd atom 371 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5885
+Bond 1 with neighbor Se has length = 2.5873
+Bond 2 with neighbor Se has length = 2.5885
+Bond 3 with neighbor Se has length = 2.5873
+
+Se atom 372 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5873
+Bond 1 with neighbor Cd has length = 2.5889
+
+Se atom 373 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5883
+Bond 1 with neighbor Cd has length = 2.5885
+
+Cd atom 374 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5887
+Bond 1 with neighbor Se has length = 2.5883
+Bond 2 with neighbor Se has length = 2.5883
+Bond 3 with neighbor Se has length = 2.5874
+
+Se atom 375 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5874
+Bond 1 with neighbor Cd has length = 2.5893
+
+Se atom 376 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5873
+Bond 1 with neighbor Cd has length = 2.5889
+
+Cd atom 377 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5885
+Bond 1 with neighbor Se has length = 2.5885
+Bond 2 with neighbor Se has length = 2.5873
+Bond 3 with neighbor Se has length = 2.5873
+
+Se atom 378 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5873
+Bond 1 with neighbor Cd has length = 2.5889
+
+Se atom 379 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5881
+Bond 1 with neighbor Cd has length = 2.5894
+
+Cd atom 380 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5888
+Bond 1 with neighbor Se has length = 2.5889
+Bond 2 with neighbor Se has length = 2.5881
+Bond 3 with neighbor Se has length = 2.5884
+
+Se atom 381 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5884
+Bond 1 with neighbor Cd has length = 2.5890
+
+Se atom 382 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5901
+
+Cd atom 383 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5895
+Bond 1 with neighbor Se has length = 2.5894
+Bond 2 with neighbor Se has length = 2.5889
+Bond 3 with neighbor Se has length = 2.5894
+
+Se atom 384 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5900
+
+Se atom 385 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5913
+
+Cd atom 386 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5905
+Bond 1 with neighbor Se has length = 2.5901
+Bond 2 with neighbor Se has length = 2.5894
+Bond 3 with neighbor Se has length = 2.5898
+
+Se atom 387 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5898
+Bond 1 with neighbor Cd has length = 2.5909
+
+Se atom 388 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5906
+Bond 1 with neighbor Cd has length = 2.5931
+
+Cd atom 389 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5920
+Bond 1 with neighbor Se has length = 2.5913
+Bond 2 with neighbor Se has length = 2.5906
+Bond 3 with neighbor Se has length = 2.5915
+
+Se atom 390 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5915
+Bond 1 with neighbor Cd has length = 2.5929
+
+Se atom 391 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5915
+Bond 1 with neighbor Cd has length = 2.5949
+
+Cd atom 392 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5937
+Bond 1 with neighbor Se has length = 2.5931
+Bond 2 with neighbor Se has length = 2.5915
+Bond 3 with neighbor Se has length = 2.5934
+
+Se atom 393 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5934
+Bond 1 with neighbor Cd has length = 2.5951
+
+Se atom 394 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5936
+Bond 1 with neighbor Cd has length = 2.5983
+
+Cd atom 395 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5961
+Bond 1 with neighbor Se has length = 2.5949
+Bond 2 with neighbor Se has length = 2.5936
+Bond 3 with neighbor Se has length = 2.5958
+
+Se atom 396 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5958
+Bond 1 with neighbor Cd has length = 2.5984
+
+Se atom 397 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5964
+Bond 1 with neighbor Cd has length = 2.6025
+
+Cd atom 398 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5999
+Bond 1 with neighbor Se has length = 2.5983
+Bond 2 with neighbor Se has length = 2.5964
+Bond 3 with neighbor Se has length = 2.5994
+
+Se atom 399 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5994
+Bond 1 with neighbor Cd has length = 2.6031
+
+Cd atom 400 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6053
+Bond 1 with neighbor Se has length = 2.6025
+Bond 2 with neighbor P1 has length = 1.4299
+Bond 3 with neighbor P1 has length = 1.4319
+
+Se atom 401 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6016
+Bond 1 with neighbor Cd has length = 2.5956
+
+Cd atom 402 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6031
+Bond 1 with neighbor Se has length = 2.6016
+Bond 2 with neighbor P1 has length = 1.4295
+Bond 3 with neighbor P1 has length = 1.4309
+
+Se atom 403 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5974
+Bond 1 with neighbor Cd has length = 2.5929
+
+Cd atom 404 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5984
+Bond 1 with neighbor Se has length = 2.5956
+Bond 2 with neighbor Se has length = 2.5974
+Bond 3 with neighbor Se has length = 2.5975
+
+Se atom 405 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5975
+Bond 1 with neighbor Cd has length = 2.6019
+
+Se atom 406 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5943
+Bond 1 with neighbor Cd has length = 2.5914
+
+Cd atom 407 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5951
+Bond 1 with neighbor Se has length = 2.5929
+Bond 2 with neighbor Se has length = 2.5943
+Bond 3 with neighbor Se has length = 2.5944
+
+Se atom 408 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5944
+Bond 1 with neighbor Cd has length = 2.5973
+
+Se atom 409 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5925
+Bond 1 with neighbor Cd has length = 2.5900
+
+Cd atom 410 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5929
+Bond 1 with neighbor Se has length = 2.5914
+Bond 2 with neighbor Se has length = 2.5925
+Bond 3 with neighbor Se has length = 2.5921
+
+Se atom 411 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5940
+
+Se atom 412 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5910
+Bond 1 with neighbor Cd has length = 2.5891
+
+Cd atom 413 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5909
+Bond 1 with neighbor Se has length = 2.5900
+Bond 2 with neighbor Se has length = 2.5910
+Bond 3 with neighbor Se has length = 2.5906
+
+Se atom 414 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5906
+Bond 1 with neighbor Cd has length = 2.5921
+
+Se atom 415 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5901
+Bond 1 with neighbor Cd has length = 2.5886
+
+Cd atom 416 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5900
+Bond 1 with neighbor Se has length = 2.5891
+Bond 2 with neighbor Se has length = 2.5901
+Bond 3 with neighbor Se has length = 2.5895
+
+Se atom 417 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5904
+
+Se atom 418 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5890
+Bond 1 with neighbor Cd has length = 2.5884
+
+Cd atom 419 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5890
+Bond 1 with neighbor Se has length = 2.5886
+Bond 2 with neighbor Se has length = 2.5890
+Bond 3 with neighbor Se has length = 2.5886
+
+Se atom 420 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5886
+Bond 1 with neighbor Cd has length = 2.5901
+
+Se atom 421 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5888
+Bond 1 with neighbor Cd has length = 2.5889
+
+Cd atom 422 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5889
+Bond 1 with neighbor Se has length = 2.5884
+Bond 2 with neighbor Se has length = 2.5888
+Bond 3 with neighbor Se has length = 2.5881
+
+Se atom 423 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5881
+Bond 1 with neighbor Cd has length = 2.5894
+
+Se atom 424 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5888
+
+Cd atom 425 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5893
+Bond 1 with neighbor Se has length = 2.5889
+Bond 2 with neighbor Se has length = 2.5889
+Bond 3 with neighbor Se has length = 2.5878
+
+Se atom 426 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5878
+Bond 1 with neighbor Cd has length = 2.5891
+
+Se atom 427 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5884
+Bond 1 with neighbor Cd has length = 2.5890
+
+Cd atom 428 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5889
+Bond 1 with neighbor Se has length = 2.5888
+Bond 2 with neighbor Se has length = 2.5884
+Bond 3 with neighbor Se has length = 2.5881
+
+Se atom 429 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5881
+Bond 1 with neighbor Cd has length = 2.5894
+
+Se atom 430 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5886
+Bond 1 with neighbor Cd has length = 2.5901
+
+Cd atom 431 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5890
+Bond 1 with neighbor Se has length = 2.5890
+Bond 2 with neighbor Se has length = 2.5886
+Bond 3 with neighbor Se has length = 2.5886
+
+Se atom 432 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5886
+Bond 1 with neighbor Cd has length = 2.5901
+
+Se atom 433 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5891
+Bond 1 with neighbor Cd has length = 2.5910
+
+Cd atom 434 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5900
+Bond 1 with neighbor Se has length = 2.5901
+Bond 2 with neighbor Se has length = 2.5891
+Bond 3 with neighbor Se has length = 2.5895
+
+Se atom 435 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5904
+
+Se atom 436 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5925
+
+Cd atom 437 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5909
+Bond 1 with neighbor Se has length = 2.5910
+Bond 2 with neighbor Se has length = 2.5900
+Bond 3 with neighbor Se has length = 2.5906
+
+Se atom 438 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5906
+Bond 1 with neighbor Cd has length = 2.5921
+
+Se atom 439 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5943
+
+Cd atom 440 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5929
+Bond 1 with neighbor Se has length = 2.5925
+Bond 2 with neighbor Se has length = 2.5914
+Bond 3 with neighbor Se has length = 2.5921
+
+Se atom 441 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5940
+
+Se atom 442 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5929
+Bond 1 with neighbor Cd has length = 2.5974
+
+Cd atom 443 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5951
+Bond 1 with neighbor Se has length = 2.5943
+Bond 2 with neighbor Se has length = 2.5929
+Bond 3 with neighbor Se has length = 2.5944
+
+Se atom 444 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5944
+Bond 1 with neighbor Cd has length = 2.5973
+
+Se atom 445 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5956
+Bond 1 with neighbor Cd has length = 2.6016
+
+Cd atom 446 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5984
+Bond 1 with neighbor Se has length = 2.5974
+Bond 2 with neighbor Se has length = 2.5956
+Bond 3 with neighbor Se has length = 2.5975
+
+Se atom 447 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5975
+Bond 1 with neighbor Cd has length = 2.6019
+
+Cd atom 448 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6031
+Bond 1 with neighbor Se has length = 2.6016
+Bond 2 with neighbor P1 has length = 1.4295
+Bond 3 with neighbor P1 has length = 1.4309
+
+Se atom 449 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5955
+
+Cd atom 450 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6019
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4293
+Bond 3 with neighbor P1 has length = 1.4301
+
+Se atom 451 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5969
+Bond 1 with neighbor Cd has length = 2.5926
+
+Cd atom 452 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5973
+Bond 1 with neighbor Se has length = 2.5955
+Bond 2 with neighbor Se has length = 2.5969
+Bond 3 with neighbor Se has length = 2.5962
+
+Se atom 453 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5962
+Bond 1 with neighbor Cd has length = 2.6015
+
+Se atom 454 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5940
+Bond 1 with neighbor Cd has length = 2.5910
+
+Cd atom 455 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5940
+Bond 1 with neighbor Se has length = 2.5926
+Bond 2 with neighbor Se has length = 2.5940
+Bond 3 with neighbor Se has length = 2.5931
+
+Se atom 456 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5968
+
+Se atom 457 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5897
+
+Cd atom 458 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5921
+Bond 1 with neighbor Se has length = 2.5910
+Bond 2 with neighbor Se has length = 2.5921
+Bond 3 with neighbor Se has length = 2.5914
+
+Se atom 459 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5934
+
+Se atom 460 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5904
+Bond 1 with neighbor Cd has length = 2.5895
+
+Cd atom 461 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5904
+Bond 1 with neighbor Se has length = 2.5897
+Bond 2 with neighbor Se has length = 2.5904
+Bond 3 with neighbor Se has length = 2.5897
+
+Se atom 462 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5897
+Bond 1 with neighbor Cd has length = 2.5921
+
+Se atom 463 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5894
+
+Cd atom 464 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5901
+Bond 1 with neighbor Se has length = 2.5895
+Bond 2 with neighbor Se has length = 2.5900
+Bond 3 with neighbor Se has length = 2.5891
+
+Se atom 465 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5891
+Bond 1 with neighbor Cd has length = 2.5910
+
+Se atom 466 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5895
+
+Cd atom 467 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5894
+Bond 1 with neighbor Se has length = 2.5894
+Bond 2 with neighbor Se has length = 2.5895
+Bond 3 with neighbor Se has length = 2.5889
+
+Se atom 468 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5901
+
+Se atom 469 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5895
+
+Cd atom 470 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5891
+Bond 1 with neighbor Se has length = 2.5895
+Bond 2 with neighbor Se has length = 2.5895
+Bond 3 with neighbor Se has length = 2.5891
+
+Se atom 471 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5891
+Bond 1 with neighbor Cd has length = 2.5899
+
+Se atom 472 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5900
+
+Cd atom 473 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5894
+Bond 1 with neighbor Se has length = 2.5895
+Bond 2 with neighbor Se has length = 2.5894
+Bond 3 with neighbor Se has length = 2.5889
+
+Se atom 474 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5889
+Bond 1 with neighbor Cd has length = 2.5901
+
+Se atom 475 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5895
+Bond 1 with neighbor Cd has length = 2.5904
+
+Cd atom 476 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5901
+Bond 1 with neighbor Se has length = 2.5900
+Bond 2 with neighbor Se has length = 2.5895
+Bond 3 with neighbor Se has length = 2.5891
+
+Se atom 477 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5891
+Bond 1 with neighbor Cd has length = 2.5910
+
+Se atom 478 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5897
+Bond 1 with neighbor Cd has length = 2.5921
+
+Cd atom 479 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5904
+Bond 1 with neighbor Se has length = 2.5904
+Bond 2 with neighbor Se has length = 2.5897
+Bond 3 with neighbor Se has length = 2.5897
+
+Se atom 480 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5897
+Bond 1 with neighbor Cd has length = 2.5921
+
+Se atom 481 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5910
+Bond 1 with neighbor Cd has length = 2.5940
+
+Cd atom 482 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5921
+Bond 1 with neighbor Se has length = 2.5921
+Bond 2 with neighbor Se has length = 2.5910
+Bond 3 with neighbor Se has length = 2.5914
+
+Se atom 483 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5934
+
+Se atom 484 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5926
+Bond 1 with neighbor Cd has length = 2.5969
+
+Cd atom 485 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5940
+Bond 1 with neighbor Se has length = 2.5940
+Bond 2 with neighbor Se has length = 2.5926
+Bond 3 with neighbor Se has length = 2.5931
+
+Se atom 486 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5968
+
+Se atom 487 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5955
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 488 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5973
+Bond 1 with neighbor Se has length = 2.5969
+Bond 2 with neighbor Se has length = 2.5955
+Bond 3 with neighbor Se has length = 2.5962
+
+Se atom 489 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5962
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 490 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6019
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4293
+Bond 3 with neighbor P1 has length = 1.4301
+
+Se atom 491 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5954
+
+Cd atom 492 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4295
+Bond 3 with neighbor P1 has length = 1.4298
+
+Se atom 493 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5968
+Bond 1 with neighbor Cd has length = 2.5925
+
+Cd atom 494 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5968
+Bond 1 with neighbor Se has length = 2.5954
+Bond 2 with neighbor Se has length = 2.5968
+Bond 3 with neighbor Se has length = 2.5956
+
+Se atom 495 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5956
+Bond 1 with neighbor Cd has length = 2.6010
+
+Se atom 496 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5934
+Bond 1 with neighbor Cd has length = 2.5914
+
+Cd atom 497 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5934
+Bond 1 with neighbor Se has length = 2.5925
+Bond 2 with neighbor Se has length = 2.5934
+Bond 3 with neighbor Se has length = 2.5925
+
+Se atom 498 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5925
+Bond 1 with neighbor Cd has length = 2.5968
+
+Se atom 499 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5906
+
+Cd atom 500 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5921
+Bond 1 with neighbor Se has length = 2.5914
+Bond 2 with neighbor Se has length = 2.5921
+Bond 3 with neighbor Se has length = 2.5910
+
+Se atom 501 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5910
+Bond 1 with neighbor Cd has length = 2.5940
+
+Se atom 502 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5909
+Bond 1 with neighbor Cd has length = 2.5898
+
+Cd atom 503 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5910
+Bond 1 with neighbor Se has length = 2.5906
+Bond 2 with neighbor Se has length = 2.5909
+Bond 3 with neighbor Se has length = 2.5900
+
+Se atom 504 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5925
+
+Se atom 505 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5905
+Bond 1 with neighbor Cd has length = 2.5902
+
+Cd atom 506 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5901
+Bond 1 with neighbor Se has length = 2.5898
+Bond 2 with neighbor Se has length = 2.5905
+Bond 3 with neighbor Se has length = 2.5894
+
+Se atom 507 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5913
+
+Se atom 508 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5902
+Bond 1 with neighbor Cd has length = 2.5905
+
+Cd atom 509 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5899
+Bond 1 with neighbor Se has length = 2.5902
+Bond 2 with neighbor Se has length = 2.5902
+Bond 3 with neighbor Se has length = 2.5894
+
+Se atom 510 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5908
+
+Se atom 511 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5898
+Bond 1 with neighbor Cd has length = 2.5909
+
+Cd atom 512 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5901
+Bond 1 with neighbor Se has length = 2.5905
+Bond 2 with neighbor Se has length = 2.5898
+Bond 3 with neighbor Se has length = 2.5894
+
+Se atom 513 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5894
+Bond 1 with neighbor Cd has length = 2.5913
+
+Se atom 514 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5906
+Bond 1 with neighbor Cd has length = 2.5921
+
+Cd atom 515 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5910
+Bond 1 with neighbor Se has length = 2.5909
+Bond 2 with neighbor Se has length = 2.5906
+Bond 3 with neighbor Se has length = 2.5900
+
+Se atom 516 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5925
+
+Se atom 517 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5934
+
+Cd atom 518 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5921
+Bond 1 with neighbor Se has length = 2.5921
+Bond 2 with neighbor Se has length = 2.5914
+Bond 3 with neighbor Se has length = 2.5910
+
+Se atom 519 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5910
+Bond 1 with neighbor Cd has length = 2.5940
+
+Se atom 520 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5925
+Bond 1 with neighbor Cd has length = 2.5968
+
+Cd atom 521 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5934
+Bond 1 with neighbor Se has length = 2.5934
+Bond 2 with neighbor Se has length = 2.5925
+Bond 3 with neighbor Se has length = 2.5925
+
+Se atom 522 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5925
+Bond 1 with neighbor Cd has length = 2.5968
+
+Se atom 523 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5954
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 524 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5968
+Bond 1 with neighbor Se has length = 2.5968
+Bond 2 with neighbor Se has length = 2.5954
+Bond 3 with neighbor Se has length = 2.5956
+
+Se atom 525 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5956
+Bond 1 with neighbor Cd has length = 2.6010
+
+Cd atom 526 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4295
+Bond 3 with neighbor P1 has length = 1.4298
+
+Se atom 527 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6010
+Bond 1 with neighbor Cd has length = 2.5956
+
+Cd atom 528 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6010
+Bond 1 with neighbor Se has length = 2.6010
+Bond 2 with neighbor P1 has length = 1.4293
+Bond 3 with neighbor P1 has length = 1.4293
+
+Se atom 529 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5968
+Bond 1 with neighbor Cd has length = 2.5931
+
+Cd atom 530 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5968
+Bond 1 with neighbor Se has length = 2.5956
+Bond 2 with neighbor Se has length = 2.5968
+Bond 3 with neighbor Se has length = 2.5954
+
+Se atom 531 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5954
+Bond 1 with neighbor Cd has length = 2.6015
+
+Se atom 532 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5940
+Bond 1 with neighbor Cd has length = 2.5921
+
+Cd atom 533 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5940
+Bond 1 with neighbor Se has length = 2.5931
+Bond 2 with neighbor Se has length = 2.5940
+Bond 3 with neighbor Se has length = 2.5926
+
+Se atom 534 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5926
+Bond 1 with neighbor Cd has length = 2.5969
+
+Se atom 535 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5929
+Bond 1 with neighbor Cd has length = 2.5915
+
+Cd atom 536 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5925
+Bond 1 with neighbor Se has length = 2.5921
+Bond 2 with neighbor Se has length = 2.5929
+Bond 3 with neighbor Se has length = 2.5914
+
+Se atom 537 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5943
+
+Se atom 538 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5920
+Bond 1 with neighbor Cd has length = 2.5913
+
+Cd atom 539 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5913
+Bond 1 with neighbor Se has length = 2.5915
+Bond 2 with neighbor Se has length = 2.5920
+Bond 3 with neighbor Se has length = 2.5906
+
+Se atom 540 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5906
+Bond 1 with neighbor Cd has length = 2.5931
+
+Se atom 541 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5913
+Bond 1 with neighbor Cd has length = 2.5920
+
+Cd atom 542 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5908
+Bond 1 with neighbor Se has length = 2.5913
+Bond 2 with neighbor Se has length = 2.5913
+Bond 3 with neighbor Se has length = 2.5900
+
+Se atom 543 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5900
+Bond 1 with neighbor Cd has length = 2.5924
+
+Se atom 544 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5915
+Bond 1 with neighbor Cd has length = 2.5929
+
+Cd atom 545 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5913
+Bond 1 with neighbor Se has length = 2.5920
+Bond 2 with neighbor Se has length = 2.5915
+Bond 3 with neighbor Se has length = 2.5906
+
+Se atom 546 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5906
+Bond 1 with neighbor Cd has length = 2.5931
+
+Se atom 547 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5921
+Bond 1 with neighbor Cd has length = 2.5940
+
+Cd atom 548 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5925
+Bond 1 with neighbor Se has length = 2.5929
+Bond 2 with neighbor Se has length = 2.5921
+Bond 3 with neighbor Se has length = 2.5914
+
+Se atom 549 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5943
+
+Se atom 550 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5968
+
+Cd atom 551 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5940
+Bond 1 with neighbor Se has length = 2.5940
+Bond 2 with neighbor Se has length = 2.5931
+Bond 3 with neighbor Se has length = 2.5926
+
+Se atom 552 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5926
+Bond 1 with neighbor Cd has length = 2.5969
+
+Se atom 553 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5956
+Bond 1 with neighbor Cd has length = 2.6010
+
+Cd atom 554 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5968
+Bond 1 with neighbor Se has length = 2.5968
+Bond 2 with neighbor Se has length = 2.5956
+Bond 3 with neighbor Se has length = 2.5954
+
+Se atom 555 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5954
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 556 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6010
+Bond 1 with neighbor Se has length = 2.6010
+Bond 2 with neighbor P1 has length = 1.4293
+Bond 3 with neighbor P1 has length = 1.4293
+
+Se atom 557 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6015
+Bond 1 with neighbor Cd has length = 2.5962
+
+Cd atom 558 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4298
+Bond 3 with neighbor P1 has length = 1.4295
+
+Se atom 559 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5973
+Bond 1 with neighbor Cd has length = 2.5944
+
+Cd atom 560 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5969
+Bond 1 with neighbor Se has length = 2.5962
+Bond 2 with neighbor Se has length = 2.5973
+Bond 3 with neighbor Se has length = 2.5955
+
+Se atom 561 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5955
+Bond 1 with neighbor Cd has length = 2.6015
+
+Se atom 562 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5951
+Bond 1 with neighbor Cd has length = 2.5934
+
+Cd atom 563 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5943
+Bond 1 with neighbor Se has length = 2.5944
+Bond 2 with neighbor Se has length = 2.5951
+Bond 3 with neighbor Se has length = 2.5929
+
+Se atom 564 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5929
+Bond 1 with neighbor Cd has length = 2.5974
+
+Se atom 565 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5937
+Bond 1 with neighbor Cd has length = 2.5931
+
+Cd atom 566 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5931
+Bond 1 with neighbor Se has length = 2.5934
+Bond 2 with neighbor Se has length = 2.5937
+Bond 3 with neighbor Se has length = 2.5915
+
+Se atom 567 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5915
+Bond 1 with neighbor Cd has length = 2.5949
+
+Se atom 568 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5931
+Bond 1 with neighbor Cd has length = 2.5937
+
+Cd atom 569 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5924
+Bond 1 with neighbor Se has length = 2.5931
+Bond 2 with neighbor Se has length = 2.5931
+Bond 3 with neighbor Se has length = 2.5914
+
+Se atom 570 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5914
+Bond 1 with neighbor Cd has length = 2.5942
+
+Se atom 571 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5934
+Bond 1 with neighbor Cd has length = 2.5951
+
+Cd atom 572 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5931
+Bond 1 with neighbor Se has length = 2.5937
+Bond 2 with neighbor Se has length = 2.5934
+Bond 3 with neighbor Se has length = 2.5915
+
+Se atom 573 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5915
+Bond 1 with neighbor Cd has length = 2.5949
+
+Se atom 574 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5944
+Bond 1 with neighbor Cd has length = 2.5973
+
+Cd atom 575 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5943
+Bond 1 with neighbor Se has length = 2.5951
+Bond 2 with neighbor Se has length = 2.5944
+Bond 3 with neighbor Se has length = 2.5929
+
+Se atom 576 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5929
+Bond 1 with neighbor Cd has length = 2.5974
+
+Se atom 577 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5962
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 578 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5969
+Bond 1 with neighbor Se has length = 2.5973
+Bond 2 with neighbor Se has length = 2.5962
+Bond 3 with neighbor Se has length = 2.5955
+
+Se atom 579 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5955
+Bond 1 with neighbor Cd has length = 2.6015
+
+Cd atom 580 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6015
+Bond 2 with neighbor P1 has length = 1.4298
+Bond 3 with neighbor P1 has length = 1.4295
+
+Se atom 581 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6019
+Bond 1 with neighbor Cd has length = 2.5975
+
+Cd atom 582 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6019
+Bond 2 with neighbor P1 has length = 1.4301
+Bond 3 with neighbor P1 has length = 1.4293
+
+Se atom 583 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5984
+Bond 1 with neighbor Cd has length = 2.5958
+
+Cd atom 584 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5974
+Bond 1 with neighbor Se has length = 2.5975
+Bond 2 with neighbor Se has length = 2.5984
+Bond 3 with neighbor Se has length = 2.5956
+
+Se atom 585 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5956
+Bond 1 with neighbor Cd has length = 2.6016
+
+Se atom 586 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5961
+Bond 1 with neighbor Cd has length = 2.5953
+
+Cd atom 587 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5949
+Bond 1 with neighbor Se has length = 2.5958
+Bond 2 with neighbor Se has length = 2.5961
+Bond 3 with neighbor Se has length = 2.5936
+
+Se atom 588 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5936
+Bond 1 with neighbor Cd has length = 2.5983
+
+Se atom 589 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5953
+Bond 1 with neighbor Cd has length = 2.5961
+
+Cd atom 590 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5942
+Bond 1 with neighbor Se has length = 2.5953
+Bond 2 with neighbor Se has length = 2.5953
+Bond 3 with neighbor Se has length = 2.5927
+
+Se atom 591 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5927
+Bond 1 with neighbor Cd has length = 2.5964
+
+Se atom 592 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5958
+Bond 1 with neighbor Cd has length = 2.5984
+
+Cd atom 593 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5949
+Bond 1 with neighbor Se has length = 2.5961
+Bond 2 with neighbor Se has length = 2.5958
+Bond 3 with neighbor Se has length = 2.5936
+
+Se atom 594 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5936
+Bond 1 with neighbor Cd has length = 2.5983
+
+Se atom 595 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5975
+Bond 1 with neighbor Cd has length = 2.6019
+
+Cd atom 596 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5974
+Bond 1 with neighbor Se has length = 2.5984
+Bond 2 with neighbor Se has length = 2.5975
+Bond 3 with neighbor Se has length = 2.5956
+
+Se atom 597 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5956
+Bond 1 with neighbor Cd has length = 2.6016
+
+Cd atom 598 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6019
+Bond 2 with neighbor P1 has length = 1.4301
+Bond 3 with neighbor P1 has length = 1.4293
+
+Se atom 599 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6031
+Bond 1 with neighbor Cd has length = 2.5994
+
+Cd atom 600 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6016
+Bond 1 with neighbor Se has length = 2.6031
+Bond 2 with neighbor P1 has length = 1.4309
+Bond 3 with neighbor P1 has length = 1.4295
+
+Se atom 601 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5999
+Bond 1 with neighbor Cd has length = 2.5984
+
+Cd atom 602 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5983
+Bond 1 with neighbor Se has length = 2.5994
+Bond 2 with neighbor Se has length = 2.5999
+Bond 3 with neighbor Se has length = 2.5964
+
+Se atom 603 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5964
+Bond 1 with neighbor Cd has length = 2.6025
+
+Se atom 604 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5984
+Bond 1 with neighbor Cd has length = 2.5999
+
+Cd atom 605 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5964
+Bond 1 with neighbor Se has length = 2.5984
+Bond 2 with neighbor Se has length = 2.5984
+Bond 3 with neighbor Se has length = 2.5954
+
+Se atom 606 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5954
+Bond 1 with neighbor Cd has length = 2.6015
+
+Se atom 607 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5994
+Bond 1 with neighbor Cd has length = 2.6031
+
+Cd atom 608 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.5983
+Bond 1 with neighbor Se has length = 2.5999
+Bond 2 with neighbor Se has length = 2.5994
+Bond 3 with neighbor Se has length = 2.5964
+
+Se atom 609 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5964
+Bond 1 with neighbor Cd has length = 2.6025
+
+Cd atom 610 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6016
+Bond 1 with neighbor Se has length = 2.6031
+Bond 2 with neighbor P1 has length = 1.4309
+Bond 3 with neighbor P1 has length = 1.4295
+
+Se atom 611 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6053
+Bond 1 with neighbor Cd has length = 2.6038
+
+Cd atom 612 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6025
+Bond 1 with neighbor Se has length = 2.6053
+Bond 2 with neighbor P1 has length = 1.4319
+Bond 3 with neighbor P1 has length = 1.4299
+
+Se atom 613 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.6038
+Bond 1 with neighbor Cd has length = 2.6053
+
+Cd atom 614 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6015
+Bond 1 with neighbor Se has length = 2.6038
+Bond 2 with neighbor Se has length = 2.6038
+Bond 3 with neighbor Se has length = 2.5991
+
+Se atom 615 with the number of bonds = 2
+Bond 0 with neighbor Cd has length = 2.5991
+Bond 1 with neighbor P2 has length = 0.7822
+
+Cd atom 616 with the number of bonds = 4
+Bond 0 with neighbor Se has length = 2.6025
+Bond 1 with neighbor Se has length = 2.6053
+Bond 2 with neighbor P1 has length = 1.4319
+Bond 3 with neighbor P1 has length = 1.4299
+
+P2 atom 617 with the number of bonds = 1
+Bond 0 with neighbor Se has length = 0.7822
+
+P1 atom 618 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4299
+
+P1 atom 619 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4319
+
+P1 atom 620 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4299
+
+P1 atom 621 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4319
+
+P1 atom 622 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 623 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4309
+
+P1 atom 624 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 625 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4309
+
+P1 atom 626 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 627 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4301
+
+P1 atom 628 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 629 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4301
+
+P1 atom 630 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 631 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4298
+
+P1 atom 632 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 633 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4298
+
+P1 atom 634 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 635 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 636 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 637 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 638 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4298
+
+P1 atom 639 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 640 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4298
+
+P1 atom 641 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 642 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4301
+
+P1 atom 643 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 644 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4301
+
+P1 atom 645 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 646 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4309
+
+P1 atom 647 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 648 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4309
+
+P1 atom 649 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 650 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4319
+
+P1 atom 651 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4299
+
+P1 atom 652 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4319
+
+P1 atom 653 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4299
+
+P2 atom 654 with the number of bonds = 1
+Bond 0 with neighbor Se has length = 0.7822
+
+P2 atom 655 with the number of bonds = 1
+Bond 0 with neighbor Se has length = 0.7822
+
+P1 atom 656 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4299
+
+P1 atom 657 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4319
+
+P1 atom 658 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4299
+
+P1 atom 659 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4319
+
+P1 atom 660 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 661 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4309
+
+P1 atom 662 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 663 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4309
+
+P1 atom 664 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 665 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4301
+
+P1 atom 666 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 667 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4301
+
+P1 atom 668 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 669 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4298
+
+P1 atom 670 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 671 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4298
+
+P1 atom 672 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 673 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 674 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 675 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 676 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4298
+
+P1 atom 677 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 678 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4298
+
+P1 atom 679 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 680 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4301
+
+P1 atom 681 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 682 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4301
+
+P1 atom 683 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4293
+
+P1 atom 684 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4309
+
+P1 atom 685 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 686 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4309
+
+P1 atom 687 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4295
+
+P1 atom 688 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4319
+
+P1 atom 689 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4299
+
+P2 atom 690 with the number of bonds = 1
+Bond 0 with neighbor Se has length = 0.7822
+
+P1 atom 691 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4319
+
+P1 atom 692 with the number of bonds = 1
+Bond 0 with neighbor Cd has length = 1.4299
+
+
+******************************************************************************
+
+Number of atoms with specific number of bonds:
+
+Number of atoms with  0 bonds = 0
+Number of atoms with  1 bonds = 76
+Number of atoms with  2 bonds = 400
+Number of atoms with  3 bonds = 0
+Number of atoms with  4 bonds = 217
+
+There are 400 undercoordinated  Se atoms!
+
+******************************************************************************
+
+Average bond lengths for all unique atom type pairs:
+
+Se-Cd average bond length = 2.5935 with std = 0.004291
+
+Se-P2 average bond length = 0.7822 with std = 0.000000
+
+Cd-P1 average bond length = 1.4300 with std = 0.000804
+
+
+******************************************************************************
+

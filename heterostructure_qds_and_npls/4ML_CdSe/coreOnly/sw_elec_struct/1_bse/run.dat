@@ -1,0 +1,35 @@
+Tue Nov  6 03:34:54 2018
+
+******************************************************************************
+
+The number of openMP threads used = 64
+Total # of filtered hole eigenstates = 161
+Total # of filtered electron eigenstates = 63
+The eval.par index of the HOMO state = 852
+The eval.par index of the LUMO state = 896
+The HOMO energy = -0.23537184 -6.40479734
+The LUMO energy = -0.13976931 -3.80331864
+Fundamental gap = 0.0956025308 2.6014787067
+The total number of atoms = 2855
+Number of grid points used: nx = 176  ny = 176  nz = 56
+Length of pseudopotential files, npot = 8192
+Kinetic energy maximum = 10.0000
+Dielectric Constant: epsx = 6.0000 epsy = 6.0000 epsz = 6.0000
+Maximum sigma for an eigenstate, deps = 0.0100
+Energy windows, electrons = 0.2000 holes = 0.1000
+The number of hole eigenstates within 0.1000 of the HOMO energy = 161
+The number of electron eigenstates within 0.2000 of the LUMO energy = 63
+Total number of carrier states, ms = 224
+Box (quadrant) dimensions: xd = 64.00 yd = 64.00 zd = 18.00
+Gamma = 0.194444
+Grid point spacing: dx = 0.7273 dy = 0.7273 dz = 0.6429 dv = 0.340024 dr = 1.212896
+The index of lowest energy occupied level used = 646
+Number of hole eigenstates used in the BSE calculation = 50
+Number of electron eigenstates used in the BSE calculation =  50
+Total number of eigenstates used in the BSE calculation = 100
+The number of electron-hole pairs in the exciton basis = 2500
+Ground state exciton has energy = 0.0903678768 2.4590364434
+
+******************************************************************************
+
+Tue Nov  6 05:26:44 2018

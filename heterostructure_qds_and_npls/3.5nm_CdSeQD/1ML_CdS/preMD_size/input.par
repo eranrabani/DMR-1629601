@@ -1,0 +1,15 @@
+buildNewNC = 1
+ncType = QD
+ncSize = 56.0
+ncAtomSymbols = Cd S
+ncCrystalStructure = zincblende
+ncCenter = 0.0 0.0 0.0
+
+nCores = 1
+ncType = QD
+ncSize = 34.0
+ncAtomSymbols = Cd Se
+ncCrystalStructure = zincblende
+ncCenter = 0.0 0.0 0.0
+
+centerAtomSymbol = S

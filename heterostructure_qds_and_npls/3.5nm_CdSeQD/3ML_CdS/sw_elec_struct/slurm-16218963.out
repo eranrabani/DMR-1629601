@@ -1,0 +1,91 @@
+Hmat.c(55): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+    dsyev_("V", "U", &mstot, &H[0], &mstot, &eval[0], &work[0], &lwk, &info);
+                     ^
+
+Hmat.c(55): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+    dsyev_("V", "U", &mstot, &H[0], &mstot, &eval[0], &work[0], &lwk, &info);
+                                    ^
+
+Hmat.c(55): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+    dsyev_("V", "U", &mstot, &H[0], &mstot, &eval[0], &work[0], &lwk, &info);
+                                                                ^
+
+Hmat.c(55): warning #167: argument of type "long long *" is incompatible with parameter of type "int *"
+    dsyev_("V", "U", &mstot, &H[0], &mstot, &eval[0], &work[0], &lwk, &info);
+                                                                      ^
+
+ortho.c(32): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+      dgesvd_("O","N",&(ngrid),&(mstot),&(psi[0]),&(ngrid),&(S[0]),
+                      ^
+
+ortho.c(32): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+      dgesvd_("O","N",&(ngrid),&(mstot),&(psi[0]),&(ngrid),&(S[0]),
+                               ^
+
+ortho.c(32): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+      dgesvd_("O","N",&(ngrid),&(mstot),&(psi[0]),&(ngrid),&(S[0]),
+                                                  ^
+
+ortho.c(33): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+  	    NULL,&one,NULL,&one,&(work[0]),&(lwork),&info);
+  	         ^
+
+ortho.c(33): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+  	    NULL,&one,NULL,&one,&(work[0]),&(lwork),&info);
+  	                   ^
+
+ortho.c(33): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+  	    NULL,&one,NULL,&one,&(work[0]),&(lwork),&info);
+  	                                   ^
+
+ortho.c(33): warning #167: argument of type "long long *" is incompatible with parameter of type "int *"
+  	    NULL,&one,NULL,&one,&(work[0]),&(lwork),&info);
+  	                                            ^
+
+/opt/intel/compilers_and_libraries_2018.1.163/linux/mkl/lib/intel64/libmkl_core.a(mkl_semaphore.o): In function `mkl_serv_load_inspector':
+mkl_semaphore.c:(.text+0x123): warning: Using 'dlopen' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking
+diag.c(32): warning #167: argument of type "const long long *" is incompatible with parameter of type "const int *"
+    dsyev_(&jobz, &uplo, &n, &mat[0], &n, &eval[0], &work[0], &lwork, &info);
+                         ^
+
+diag.c(32): warning #167: argument of type "const long long *" is incompatible with parameter of type "const int *"
+    dsyev_(&jobz, &uplo, &n, &mat[0], &n, &eval[0], &work[0], &lwork, &info);
+                                      ^
+
+diag.c(32): warning #167: argument of type "const long long *" is incompatible with parameter of type "const int *"
+    dsyev_(&jobz, &uplo, &n, &mat[0], &n, &eval[0], &work[0], &lwork, &info);
+                                                              ^
+
+diag.c(32): warning #167: argument of type "long long *" is incompatible with parameter of type "int *"
+    dsyev_(&jobz, &uplo, &n, &mat[0], &n, &eval[0], &work[0], &lwork, &info);
+                                                                      ^
+
+/opt/intel/compilers_and_libraries_2018.1.163/linux/mkl/lib/intel64/libmkl_core.a(mkl_semaphore.o): In function `mkl_serv_load_inspector':
+mkl_semaphore.c:(.text+0x123): warning: Using 'dlopen' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking
+cp: cannot create regular file '/global/cscratch1/sd/jphilbin/calcs/heterostructure_npls/3.5nm_CdSeQD/3ML_CdS/sw_elec_struct/1_filter/filter.x': Text file busy
+srun: error: nid06135: task 0: Segmentation fault
+srun: Terminating job step 16218963.0
+cp: cannot stat 'run.dat': Stale file handle
+cp: cannot stat 'eval.dat': Stale file handle
+cp: cannot stat 'conf.par': Stale file handle
+cp: cannot stat 'input.par': Stale file handle
+mv: cannot stat 'psi.dat': Stale file handle
+cp: cannot stat 'eval.dat': Stale file handle
+/var/spool/slurmd/job16218963/slurm_script: line 78: cd: /global/cscratch1/sd/jphilbin/calcs/heterostructure_npls/3.5nm_CdSeQD/3ML_CdS/sw_elec_struct/1_bse/: No such file or directory
+/var/spool/slurmd/job16218963/slurm_script: line 79: run.dat: Stale file handle
+/var/spool/slurmd/job16218963/slurm_script: line 83: sorted_OS0.dat: Stale file handle
+/var/spool/slurmd/job16218963/slurm_script: line 84: sorted_M0.dat: Stale file handle
+/var/spool/slurmd/job16218963/slurm_script: line 85: sorted_rs.dat: Stale file handle
+cp: cannot stat 'run.dat': Stale file handle
+cp: cannot stat 'exciton.dat': Stale file handle
+cp: cannot stat 'OS.dat': Stale file handle
+cp: cannot stat 'p*z*-*.dat': Stale file handle
+cp: cannot stat 'sorted*.dat': Stale file handle
+cp: cannot stat 'BSEeval.par': Stale file handle
+cp: cannot stat 'conf.par': Stale file handle
+cp: cannot stat 'input.par': Stale file handle
+cp: cannot stat 'pz*.dat': Stale file handle
+cp: cannot stat 'BSEeval.par': Stale file handle
+cp: cannot stat 'sorted*.dat': Stale file handle
+rm: cannot remove '/global/cscratch1/sd/jphilbin/calcs/heterostructure_npls/3.5nm_CdSeQD/3ML_CdS/sw_elec_struct/1_filter': No such file or directory
+rm: cannot remove '/global/cscratch1/sd/jphilbin/calcs/heterostructure_npls/3.5nm_CdSeQD/3ML_CdS/sw_elec_struct/1_bse': No such file or directory

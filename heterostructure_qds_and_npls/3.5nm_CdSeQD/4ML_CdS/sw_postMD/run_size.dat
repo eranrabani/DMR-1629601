@@ -1,0 +1,76 @@
+Mon Nov  5 16:58:44 2018
+
+******************************************************************************
+
+INPUT PARAMETERS:
+
+confFile = new_init-min.xyz
+confFileUnits = angstroms
+buildNewNC = 0
+ncType = QD
+nLayersToCut = 1
+remDanglingAtoms = 1
+nMaxBonds = 4
+nMinBonds = 2
+passivate = 1
+
+******************************************************************************
+
+
+Removing atoms with missing bonds:
+
+Iteration 1
+Starting number of atoms = 8993
+Final number of atoms = 8993
+
+******************************************************************************
+
+Cutting one layer of the nanocrystal
+
+
+Removing atoms with missing bonds:
+
+Iteration 1
+Starting number of atoms = 6767
+Final number of atoms = 6731
+
+Iteration 2
+Starting number of atoms = 6731
+Final number of atoms = 6731
+
+Number of original atoms = 8993
+Number of semiconductor atoms removed during cutting this layer = 2262
+Number of new atoms after cutting one layer = 6731
+
+******************************************************************************
+
+Passivating the nanocrystal
+
+Number of original atoms = 6731
+Number of surface atoms removed = 1838
+Number of atoms excluding passivation (possible dangling atoms) = 4893
+
+Finalizing the semiconductor atoms in the passivated nanocrystal:
+
+
+Removing atoms with missing bonds:
+
+Iteration 1
+Starting number of atoms = 4893
+Final number of atoms = 4857
+
+Iteration 2
+Starting number of atoms = 4857
+Final number of atoms = 4857
+
+Total number of semiconductor atoms removed during passivation = 1874
+
+Adding in the passivation atoms:
+
+Number of atoms excluding passivation = 4857
+Number of passivation atoms = 1196
+Number of atoms including passivation = 6053
+
+******************************************************************************
+
+Mon Nov  5 16:59:11 2018

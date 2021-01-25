@@ -1,0 +1,73 @@
+Wed Sep  5 15:55:30 2018
+
+******************************************************************************
+
+INPUT PARAMETERS:
+
+confFile = nanocrystal_unpassivated.xyz
+confFileUnits = angstroms
+buildNewNC = 0
+ncType = NPL
+numLayersToCut = 1
+remDanglingAtoms = 1
+maxNumBonds = 4
+minNumBonds = 2
+passivate = 1
+
+******************************************************************************
+
+Removing atoms with missing bonds:
+
+Iteration 1
+Starting number of atoms = 12075
+Final number of atoms = 12075
+
+******************************************************************************
+
+Cutting one layer of the nanocrystal
+
+Removing atoms with missing bonds:
+
+Iteration 1
+Starting number of atoms = 8204
+Final number of atoms = 8135
+
+Iteration 2
+Starting number of atoms = 8135
+Final number of atoms = 8135
+
+Number of original atoms = 12075
+Number of semiconductor atoms removed during cutting this layer = 3940
+Number of new atoms after cutting one layer = 8135
+
+******************************************************************************
+
+Passivating the nanocrystal
+
+Number of original atoms = 8135
+Number of surface atoms removed = 2993
+Number of atoms excluding passivation (possible dangling atoms) = 5142
+
+Finalizing the semiconductor atoms in the passivated nanocrystal:
+
+Removing atoms with missing bonds:
+
+Iteration 1
+Starting number of atoms = 5142
+Final number of atoms = 5069
+
+Iteration 2
+Starting number of atoms = 5069
+Final number of atoms = 5069
+
+Total number of semiconductor atoms removed during passivation = 3066
+
+Adding in the passivation atoms:
+
+Number of atoms excluding passivation = 5069
+Number of passivation atoms = 1596
+Number of atoms including passivation = 6665
+
+******************************************************************************
+
+Wed Sep  5 15:56:02 2018

@@ -1,0 +1,64 @@
+Hmat.c(55): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+    dsyev_("V", "U", &mstot, &H[0], &mstot, &eval[0], &work[0], &lwk, &info);
+                     ^
+
+Hmat.c(55): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+    dsyev_("V", "U", &mstot, &H[0], &mstot, &eval[0], &work[0], &lwk, &info);
+                                    ^
+
+Hmat.c(55): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+    dsyev_("V", "U", &mstot, &H[0], &mstot, &eval[0], &work[0], &lwk, &info);
+                                                                ^
+
+Hmat.c(55): warning #167: argument of type "long long *" is incompatible with parameter of type "int *"
+    dsyev_("V", "U", &mstot, &H[0], &mstot, &eval[0], &work[0], &lwk, &info);
+                                                                      ^
+
+ortho.c(32): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+      dgesvd_("O","N",&(ngrid),&(mstot),&(psi[0]),&(ngrid),&(S[0]),
+                      ^
+
+ortho.c(32): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+      dgesvd_("O","N",&(ngrid),&(mstot),&(psi[0]),&(ngrid),&(S[0]),
+                               ^
+
+ortho.c(32): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+      dgesvd_("O","N",&(ngrid),&(mstot),&(psi[0]),&(ngrid),&(S[0]),
+                                                  ^
+
+ortho.c(33): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+  	    NULL,&one,NULL,&one,&(work[0]),&(lwork),&info);
+  	         ^
+
+ortho.c(33): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+  	    NULL,&one,NULL,&one,&(work[0]),&(lwork),&info);
+  	                   ^
+
+ortho.c(33): warning #167: argument of type "long long *" is incompatible with parameter of type "const int *"
+  	    NULL,&one,NULL,&one,&(work[0]),&(lwork),&info);
+  	                                   ^
+
+ortho.c(33): warning #167: argument of type "long long *" is incompatible with parameter of type "int *"
+  	    NULL,&one,NULL,&one,&(work[0]),&(lwork),&info);
+  	                                            ^
+
+/opt/intel/compilers_and_libraries_2018.1.163/linux/mkl/lib/intel64/libmkl_core.a(mkl_semaphore.o): In function `mkl_serv_load_inspector':
+mkl_semaphore.c:(.text+0x123): warning: Using 'dlopen' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking
+diag.c(32): warning #167: argument of type "const long long *" is incompatible with parameter of type "const int *"
+    dsyev_(&jobz, &uplo, &n, &mat[0], &n, &eval[0], &work[0], &lwork, &info);
+                         ^
+
+diag.c(32): warning #167: argument of type "const long long *" is incompatible with parameter of type "const int *"
+    dsyev_(&jobz, &uplo, &n, &mat[0], &n, &eval[0], &work[0], &lwork, &info);
+                                      ^
+
+diag.c(32): warning #167: argument of type "const long long *" is incompatible with parameter of type "const int *"
+    dsyev_(&jobz, &uplo, &n, &mat[0], &n, &eval[0], &work[0], &lwork, &info);
+                                                              ^
+
+diag.c(32): warning #167: argument of type "long long *" is incompatible with parameter of type "int *"
+    dsyev_(&jobz, &uplo, &n, &mat[0], &n, &eval[0], &work[0], &lwork, &info);
+                                                                      ^
+
+/opt/intel/compilers_and_libraries_2018.1.163/linux/mkl/lib/intel64/libmkl_core.a(mkl_semaphore.o): In function `mkl_serv_load_inspector':
+mkl_semaphore.c:(.text+0x123): warning: Using 'dlopen' in statically linked applications requires at runtime the shared libraries from the glibc version used for linking

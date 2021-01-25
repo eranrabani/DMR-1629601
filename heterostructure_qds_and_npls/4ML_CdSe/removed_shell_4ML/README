@@ -1,0 +1,18 @@
+This calculation involves running molecular dynamics with 
+4 ML of CdSe and 4 ML of CdS as a shell on the top and bottom 
+of the CdSe core (taken from the 2ML_CdS directory). 
+After molecular dynamics, I ran the following command:
+
+$ awk '{if(NR>1 && $4<15.5 && $4>-15.5){print $0}}' new_init-min.xyz > tmp.xyz
+
+in postMD_cutPass/removeTopLayers where new_init-min.xyz was taken from
+2ML_CdS/md/run_2/. Then, in postMD_cutPass, I removed the outer layer and 
+then passivated tmp.xyz to result in passivated_conf.dat which contained
+just the 800 Se atoms and surrounding Cd atoms.
+
+In other words, the final structure that I ran electronic
+structure on in this directory is just 4 ML of CdSe with the
+positions obtained from that of MD with 4 ML of CdS on each size
+of the 4 ML CdSe NPL. This will help us elucidate the importance
+of strain effects on the electronic structure compared to those of
+the delocalization of the electron upon growing the CdS shell.

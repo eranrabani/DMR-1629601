@@ -1,0 +1,22 @@
+Tue Oct  9 10:37:54 2018
+
+******************************************************************************
+
+INPUT PARAMETERS:
+
+confFile = tmp.xyz
+confFileUnits = angstroms
+buildNewNC = 0
+ncType = QD
+nLayersToCut = 0
+remDanglingAtoms = 0
+nMaxBonds = 4
+nMinBonds = 2
+passivate = 0
+
+******************************************************************************
+
+
+******************************************************************************
+
+Tue Oct  9 10:37:55 2018

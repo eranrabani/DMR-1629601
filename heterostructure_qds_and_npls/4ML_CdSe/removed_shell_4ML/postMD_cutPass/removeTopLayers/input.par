@@ -1,0 +1,3 @@
+confFile = tmp.xyz 
+confFileUnits = angstroms
+ncType = NPL 

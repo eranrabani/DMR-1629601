@@ -1,0 +1,65 @@
+Thu Oct  4 12:00:00 2018
+
+******************************************************************************
+
+INPUT PARAMETERS:
+
+buildNewNC = 1
+centerAtomSymbol = Cd
+nCores = 0
+nAttachedNCs = 0
+ncType = NPL
+atomSymbols = Cd Se
+ncCrystalStructure = zincblende
+nplLength = 78.00 A
+nplWidth = 78.00 A
+nplThickness = 28.50 A
+nMaxBonds = 4
+nMinBonds = 2
+passivate = 0
+
+******************************************************************************
+
+Building a new bulk crystal:
+
+The primite lattice vectors are (zincblende CdSe):
+
+  0.0000000000   3.0291500000   3.0291500000   4.2838650125
+  3.0291500000   0.0000000000   3.0291500000   4.2838650125
+  3.0291500000   3.0291500000   0.0000000000   4.2838650125
+
+The number of atoms in a unit cell = 2
+
+Required size of bulk crystal to be cut:
+118.0000000000 118.0000000000  68.5000000000 180.3891626457
+Unit cell vector is:
+  6.0583000000   6.0583000000   6.0583000000  10.4932834075
+Bulk crystal size in x = 472.547
+Bulk crystal size in y = 472.547
+Bulk crystal size in z = 375.615
+
+Putting Cd at the origin of the nanocrystal
+
+The total number of bulk crystal atoms = 754416
+The total number of nanocrystal atoms (with dangling atoms) = 7389
+
+Removing atoms with missing bonds:
+
+Iteration 1
+Starting number of atoms = 7389
+Final number of atoms = 7265
+
+Iteration 2
+Starting number of atoms = 7265
+Final number of atoms = 7261
+
+Iteration 3
+Starting number of atoms = 7261
+Final number of atoms = 7261
+
+The total number of nanocrystal atoms (without dangling atoms) = 7261
+
+
+******************************************************************************
+
+Thu Oct  4 12:00:12 2018

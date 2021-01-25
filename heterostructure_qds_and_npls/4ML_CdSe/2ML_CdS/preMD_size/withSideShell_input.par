@@ -1,0 +1,7 @@
+coreShell = 1
+buildNewNC = 1
+ncType = NPL
+totalSize = 77.0 77.0 32.5
+coreSize = 56.0 56.0 12.5
+atomSymbols = Cd S Cd Se
+centerAtomSymbol = Cd

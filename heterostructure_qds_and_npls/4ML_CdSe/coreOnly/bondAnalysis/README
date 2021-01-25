@@ -1,0 +1,21 @@
+Copied conf.par into the following 3 directories and renamed it to orig_conf.par.
+Then the following commands were run to make a new conf.par to analyze the layer specific bonds.
+The allCdSeLayers gives the same result as the entire CdSe/CdS structure in terms of its 
+analysis of the Cd-Se bonds.
+
+For the allCdSeLayers (keeps all of the CdSe):
+$ awk '{if(($4>-12.0)&&($4<12.0)){print $0}}' orig_conf.par > conf.par 
+
+For the innerCdSeLayers (keeps 1 layer of Cd and 2 of Se):
+$ awk '{if(($4>-3.5)&&($4<3.5)){print $0}}' orig_conf.par > conf.par
+
+One alternative for innerCdSeLayers (keeps 3 layers of Cd and 2 of Se):
+$ awk '{if(($4>-6.0)&&($4<6.0)){print $0}}' orig_conf.par > conf.par
+
+For the outerCdSeLayers (removes 1 layer of Cd and 2 of Se):
+$ awk '{if(($4<-3.5)||($4>3.5)){print $0}}' orig_conf.par > conf.par 
+
+One alternative for outerCdSeLayers (just removes 1 layer of Cd): 
+$ awk '{if(($4<-6.5)||($4>6.5)){print $0}}' orig_conf.par > conf.par 
+
+

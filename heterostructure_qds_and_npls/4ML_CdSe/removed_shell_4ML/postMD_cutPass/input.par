@@ -1,0 +1,6 @@
+confFile = tmp.xyz 
+confFileUnits = angstroms
+ncType = NPL 
+remDanglingAtoms = 1
+nLayersToCut = 1
+passivate = 1

@@ -1,0 +1,22 @@
+Thu Oct  4 18:17:49 2018
+
+******************************************************************************
+
+Invalid input field and/ or format - equal sign required after each field
+Only allowed fields are (case-sensitive):
+
+confFile = fileName (nAtoms first line then atomSymbol x y z
+confFileUnits = atomic or angstroms
+centerAtomSymbol = Se (Cd is default - use XX for no center)
+nMaxBonds = 4 (CdSe/CdS/ZnS/..)
+buildNewNC = 1 (0 -> false is default - must be followed immediately by ncType and size)
+ncType = NPL (QD is default (QD, NR, NPL or attachedNCs) - must be below buildNewNC and nCores
+nCores = 1 (0 -> false is default (0,1,2,...) - bulk crystal built with lattice constant of the mainNC)
+
+nAttachedNCs = 2 (0 -> false is default (1,3) - bulk crystal built with lattice constant of the mainNC)
+
+nStackingFaults = 1, 2,... (0 -> false is default)
+remDanglingAtoms = 1 (0 -> false is default)
+passivate = 1 (0 -> false is default)
+nLayersToCut = 0, 1, 2,... (0 is default)
+
